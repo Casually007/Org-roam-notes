@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       3cbbe427-ddbf-458d-bae6-e72ca14cdec6
+:END:
+#+title:Prologue
+#+filetags: :SteinsGate:
+* After-thoughts
+* Pressing Questions
+#+begin_center
+=Plot Hooks=
+1. What is the **Organization**?
+2. Rintaro is taking with someone on the phone while infiltrating the conference. I wonder, who are they?
+3. Moments before the press conference can start, the building shakes and a mysterious device lands on the roof. What is it?
+4. Rintaro uses the call sign ***El psy kongroo*** while terminating the mysterious call. Is that hubris or something meaningful?
+#+end_center
+* TIME TRAVEL PRESS CONFERENCE by Dr. Nakabachi
+dtd 28/7 (WED)
+**  [[id:ec77fd83-5cf4-484e-a1f3-890f1b351c08][Mayuri]] is obsessed with this ugly cute toy called *Upa*. Apparently, some frog like toy was in the craze amongst young girls last year. Will this info play a role in the butterfly effect?
+** Mayuri ends up with a rare **Metal Upa** from gacha pot.
+**  [[id:cf5e0883-ac65-423b-8671-457f1a6c99b2][Rintaro]] considers Dr. Nakabachi to be Fraud. He is of the opinion that Dr. Nakabachi stole the research from a certain John Titor.
+** Amidst the ruckus created by his protest, Rintaro stumble across a mysterious girl. He recognises her from an article his friend Daru forwarded him. The article *Girl Gives Lecture in Akihabara* mentions a girl aged 17, who graduated from an American university and published her thesis in a major scientific journal. Makise Kurisu was the name of that girl.
+**  [[id:1d9e7331-84b9-4ba2-9304-f370b3c5dfe1][Kurisu]] claims that Rintaro was saying something to her 15 minutes ago. Rintaro refutes by stating that he was with Mayuri buying Upa at that time. By Kurisu's statement, Rintaro was on the verge of crying. Scene shows that they're meeting at 4F floor.
+** Rintaro receives an email just when he was about to go looking for Mayuri. The source email-id is sg-epk@jtk93.x29.jp with reception time being *7/28 12:26*. Attached video seems to be ordinary static noise.
+** Ignoring the odd mail, Rintaro calls Mayuri. Mayuri's phone number is ***080X417X806***. The call goes unanswered so Rintaro heads back to the assembly.
+** When Rintaro finds Mayuri, she is busy searching for her lost metal Upa. A point worth noting is that her metal Upa is engraved with her self-assigned name *Mayushii*.
+** Rintaro hears a scream and comes across an empty hallway on the *same* floor. At the end of the passage, he finds Kurisu lying face down in the puddle of bright red blood. Not sure, if it is relevant but the scream audio didn't sound like something coming from a 17 year old girl.
+** Rintaro is out now on **Chuo-dori** street. His first thought is to inform  [[id:a1004a17-e9c0-4284-aebb-b925d4509a1f][Daru]] of the incident. Mail being send to Daru contains the message:
+*** Someone stabbed Makise Kurisu. Don't know who. Looked bad. Hope she's okay.
+** Notable, he doesn't state that Kurisu was **Dead** despite fearing it to be the most probabilistic outcome. He almost felt like writing it down would set things in the stone.
+** Just when he sends the message everyone around him vanishes. When he looks up at the building where conference hall was located, he notices a crashed satellite piercing the top floor location where the event was held.
+** =Game intro credit rolls.=

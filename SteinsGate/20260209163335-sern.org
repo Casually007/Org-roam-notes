@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       ae74f4f4-9ed7-4459-b8d6-aa5b43acaf61
+:END:
+#+title:SERN
+#+filetags: :SteinsGate:Place:
+* After-thoughts
+
+
+* source: conversation between  [[id:cf5e0883-ac65-423b-8671-457f1a6c99b2][Rintaro]] and [[id:a1004a17-e9c0-4284-aebb-b925d4509a1f][Daru]]
+
+** world's largest particle physics research institution.
+** aliases:
+    1. European Laboratory for Particle Physics
+    2. European Organization for Nuclear Research
+** located close to the boarder of switzerland and france, on he outskirt of geneva.
+** famous as birthplace for html, http, and the world wide web.
+** hosts a japanese research team. thogh, this fact is not widely known to the public.
+** home to the largest particle accelerator known to the mankind.
+** some of the other particle accelerators barring the big boss lhc, are:
+    + low energy antiproton ring
+    + proton synchrotron booster
+    + large electron-positron collider
+** lhc is a 27-kilometer long tunnel built underneath sern's hq. it's goal is to smash protons together with the hope of creating unkown eementary particles.the experiment began last year.
+** prior to the experimentations at lhc, many speculated that this will create mini black holes which will swallow the earth. sern officially denies such rumours.
+** hypothetically speaking, even if mini black holes somehow gets created, the amount of energy contained would be so tinythat it wopuld disappar in an instant.

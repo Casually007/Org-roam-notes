@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       2ca21175-8217-4ce0-8ecf-4e374aa9a144
+:END:
+#+title:Titor's Theory
+#+filetags: :SteinsGate:Keyword:
+* After-thoughts
+
+
+
+*  [[id:1d9e7331-84b9-4ba2-9304-f370b3c5dfe1][Kurisu]]'s Interpretation
+
+**  The LHC smashes protons together at 99.9999991% the speed of light. In general, compressing a mass of 10^(-24) kg into an extremely tiny space of 10^(-19) m is called Proton compression.
+
+*** /(Simplification of proton compression for  [[id:a1004a17-e9c0-4284-aebb-b925d4509a1f][Daru]]'s understanding)/
+  1. A small mass.
+  2. Thrust into a narrow space.
+  3. With great force.
+
+** A successful proton compression generates a micro-singularity or a mini black hole. (A singularity is the core of a black hole.) This process of colliding protons inside LHC at near light speed generates a black hole with *two* micro-singularities, i.e. a black hole with two cores.
+*** /(Simplification of proton collison in LHC for Daru's understanding)/
+  1. There are two cute girls Mic and Cro.
+  2. By feeding Mic and Cro electrons, you can make them do whatever you want.
+  3. You force them to rotate at an extremely high velocity.
+  4. Theoretically, Mic and Cro transform into magical girl 'Ring Singularity'.
+
+** This black hole with two micro-singularity exhibits what's called the *Kerr effect*.
+** Spinning of Kerr black hole is not the same as whirlpool around a black hole. The whirlpool around the hole is created by surrounding mass getting sucked into the black hole because of gravitational collapse.
+** Typical black hole is just a *point* of singularity. Just like a point, they can't be spun. But kerr black hole has a ring at the center, not a point.
+*** /(Simpified analogy for Daru)/:
+   * Once Mic and Cro transformed into magical girl, Their hearts are spinning like a ring their body.
+
+**  Answering [[id:cf5e0883-ac65-423b-8671-457f1a6c99b2][Rintaro]]'s question on why existence of Kerr black hole would be impossible to prove...
+*** A black hole has what's called an event horizon. Beyond event horizon, time and space switch places. By switching, Kurisu means that unlike normal circumstance where in one can freely move freely spatially but time is restricted to move only forward, on the other side of event horizon, moving freely through space becomes impossible, while moving through time becomes a possibility. Because spatial movement inside the black hole beyond event horizon is impossible, one can never escape a black hole. For example, if Okabe jumped into a black hole, time for him would stretch to infinity. Since light cannot escape, human eyes cannot see the other side of the event horizon. Observing a black hole from the outside is also impossible for the same reason. That's why nothing about inside can be proven.
+*** There is an exception which is vital when you use a Kerr black hole for time travel. The Kerr black hole contains a ring singularity and posses angular momentum. Once the angular momentum exceeds a certain threhold, the event horizon should disappear, and the singularity becomes a naked singularity. When the event horizon disappears, there's no more reason for time-space to change places. This means one can ~~enter~~ (go in proximity of) the naked singularity without being trapped. And then the existence of the naked singularity allows the principle of casuality to be violated and the general relativity to fail.
+
+** Nothing in principle stops Kerr bleck hole from existing. It seems inconsistent but the math never lies.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f9730efd-b266-4049-8298-eae48d5da1aa
+:END:
+#+title:Kerr black holes
+#+filetags: :SteinsGate:Keyword:
+* After-thoughts
+
+
+* Details
+- It's a theoretical black hole with a rotating singularity.
+- Their existance hasn't been proven yet. (Not that there exist a way to prove that.)
+- John Titor claims his time machine uses Kerr black holes.

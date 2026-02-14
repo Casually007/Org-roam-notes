@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a6e24d7b-308a-439e-a547-8e7e61071878
+:END:
+#+title:Daibiru
+#+filetags: :SteinsGate:Place:
+* After-thoughts
+
+
+* Details
+- A fictional skyscrapper with offices and a commerce center that open alongside [[id:057a6d89-a1d0-4d24-94db-9599998e64f1][UPX]] in 2003.
+- It is connected to UPX by an overpass.

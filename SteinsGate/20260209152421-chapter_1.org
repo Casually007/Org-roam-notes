@@ -1,0 +1,209 @@
+:PROPERTIES:
+:ID:       c2c4bffc-740e-4a1a-9b32-d01960c322a3
+:END:
+#+title:Chapter-1
+#+filetags: :SteinsGate:Chapter:Time_Travel_Paranoia:
+* After-thoughts
+* Pressing Questions
+*  Future Gadget Lab, Akihabara, Tokyo
+#+begin_center
+- Rintaro's Apartment
+- 7/28 (WED) /an hour after the incident at the conference/
+#+end_center
+**  Scene begins with  [[id:cf5e0883-ac65-423b-8671-457f1a6c99b2][Rintaro]] breaking the fourth wall. [[id:ec77fd83-5cf4-484e-a1f3-890f1b351c08][Mayuri]] and [[id:a1004a17-e9c0-4284-aebb-b925d4509a1f][Daru]]? are sitting on the left and right sides of our protagonist. Rintaro is inquisitively staring at the TV screen(?) and pondering over the thought that which side of the screen is real and which is not. The mad scientist loudly proclaims that his purpose is  to rearrange the structure of the world i.e. the System itself.
+**  Lab's location:
+*** Step 1. From the station, head down Chuo-dori to reach Suehirocho station.
+*** Step 2. Take left onto Kuramaebashi-dori.
+*** Step 3. In the alley before signal, locate the run-down Ohiyama Building.
+*** Step 4. Find the lab on the second floor.
+*** Step 5. Use Braun Tube workshop on the first floor as a waypoint to pinpoint the location.
+**  Braun Tube Workshop exclusively deals in CRT monitors despite having non-existent demand in the heart of Akiabara's Electric Town. [[id:4085e408-9c5c-489f-bcbd-7c0c1a77e782][Tennouji]], the proprietor of the Workshop, also owns the Ohiyama Building.
+**  Oh well, turns out Rintaro was making a cynical advertisement to recruit dedicated scientists. His prior statements make much more sense now. Truly, a well-crafted comic scenario worthy of applause. (+2)
+**  Rintaro introduces fellow ~researcher~ lab members:
+*** 1. Lab Mem #001: Mad Scientist Hououin 'Okarin' Kyouma
+*** 2. Lab Mem #002: Resident Cosplayer Shiina 'Mayushii' Mayuri
+*** 3. Lab Mem #003: Super Hacka Hasida 'Daru' Itaru
+**  Rintaro states his lab's MO is to develop weapons for the war with ***Dark Dominion***. Their research has spawned many offshoot inventions. So far, they have made 9 inventions and their target is reach a total of 108. His obsession for the specific number of inventions (108) comes from number of earthly desires or temptations mentioned in Buddhism philosophy.
+**  Itaru confirms that Rintaro is talking to himself while staring at his CRT monitor screen. Rintaro on the other hand insists that he is talking to the person behind the screen. {Does this mean our mad scientist thinks that he can transmit his message by intently glaring and simply orating in front of an electromagnetic device. Was that why he was talking to his switched off phone in the prologue? I wonder if he has any explanation for how his message will get encrypted and only reach the desired target? If he is blindly transmitting his message then doesn't that mean his 'nemesis', the Organisation can easily intercept his message?}
+**  Now, all three are in on the idea of questioning the reality. Once Rintaro announces of their failure in attempt for communication, Mayuri claims that maybe the person on the other side thinks they're in the game. Itaru disagrees by questioning their ability to differentiate the concept of reality and game. Mayuri put light on Itaru's hypocrisy by bringing up his obsession for 2D girlfriends. After an emotional defence of his Waifus, Itaru indulges on Mayuri's thoughts by bring up the question of whether or not there exist a way to confirm they not just characters in the game. Rintaro puts a lid on the discussion by changing point of discussion to meaningful topic like ways to rearrange the ruling structure of the world.
+**  **Alpacaman**, another ugly-cute character (to be precise 3rd one introduced so far), makes appearance as desktop wallpaper of Rintaro's PC. Our first impression was incorrect. In fact, the screen is showing a game called **Alpacaman 2**, where player interacts with Alpacaman via microphone and watch them react. Rintaro bought it for a bargain (500 yen) which included the headset.
+**  *That time when Mayuri became the first memeber:* On a fateful day in the spring, she barged into Rintaro's lab and claimed "Mayushii is Okarin's hostage! I belong here!" Rintaro views her as the saviour, the one who saved him from a solitary life on the run from the Organization.
+**  Since the one inside the screen is Alpacaman, all those earlier ramblings were directed toward that ugly-cute in-game character. As expected, he didn't get any response. In frustration, he ends up breaking the TV.
+*  Flashback to End of Prologue
+#+BEGIN_CENTER
+ Location: Chuo-dori street
+ dtd: 28/7 (WED)
+#+END_CENTER
+**  Quick recap of the end of [[id:3cbbe427-ddbf-458d-bae6-e72ca14cdec6][Prologue]]: Just when Rintaro was about to send the mail to Daru, something weird happened from the point of view of Rintaro. Suddenly the whole street was bereft of people or vehicles and there was this giant satellite crashing through the top floor of Radi-Kan (building where conference hall is located).
+**  Mayuri's voice brings Rintaro back to reality as he see her standing right beside him. On enquiring about lack of people in the area, Mayuri behaves as if this is natural citing heat waves as the cause. When asked about the satellite on the roof, all she says is that it made a huge **Kaplow** sound. Rintaro's perception says it sounded more like **Zzzzzznnnmmm**.
+**  Amidst the confusion about varing account of Mayuri and his vision, a policeman comes by to give them warning regarding the area being off-limits. When inquired about disappearance and stabbing of [[id:1d9e7331-84b9-4ba2-9304-f370b3c5dfe1][Kurisu]], the poilceman clear states that no one was stabbed and Chuo-dori was cordoned off by the police so no one can enter.
+**  They're escorted up to unusually crowded UPX (police station?) and later released. After ward, they headed back to the lab.
+*  An hour after the incident at the conference (post flashback)
+#+BEGIN_CENTER
+Location: Future Gadget Lab, Akihabara, Tokyo (Rintaro's Appartment)
+dtd 7/28 (WED)
+#+END_CENTER
+**  What happened in one whole hour since the beginning of Nakabachi's presentation? This is the pressing question. Rintaro checks for any news online. Fact checking on internet and news bulletin confirms that the mysterious machine i.e. the satellite indeed crashed into Radi-Kan (conference hall building). Report also says that no one was hurt but Chuo-dori remains closed off.
+**  Mystery of Kurisu murder, mysterious disappearance of people off the street; Rintaro wonders what could put a light on these mysteries. An elaborate cover-up by the Organization!!! That's the conclusion Rintaro reach up to. By Rintaro's logic, the Organization controls entire government including law enforcement.
+**  Mystery solved! Time for Rintaro's favourite soda, Dr P.
+**  Rintaro enters the development room to continue working on his inventions. Currently, they are working on perfecting the Gadget No. 8. More details on their work can be accessed at  [[id:e3ad92cc-8fe8-40fb-a7b2-b65e4fbf9c2f][Future Gadget Laboratory]].
+**  Phonewave, which is a placeholder name for the gadget no. 8, is exhibiting an unintended capability. The serendipitous outcome came into being all thanks to the daily use of gadget by Mayuri for reheating some fried chicken. Unlike usual cases, one time when Mayuri put her 'Juicy Chicken Number One!' for defrosting, the chicken that came out was more frozen than when she'd put it in. In short, the anomalous behaviour was *microwave refreezing the chicken instead of defrosting them*.
+**  The purpose of today's meeting to figure out the cause behind anomalous behaviour. Attempt for recreating the freezing phenomenon haven't been fruitful so far. The bananas has been turning into 'gelbanas' (nomenclature courtesy of Mayuri).
+** This time, the experiment is being repeated after shoving all remaining bananas in the microwave. Daru has programmed Mayushii Guidance System to operate the PhoneWave. Voice commands detailing the instruction of use are as follow:
+*** "After pushing the # button, please enter the heating time in seconds. For example press '#60' for one minute."
+** Rintaro presses '120#' instead of '#120'. The bananas have become gelatinous blobs coated with thin membrane. With heavy heart, Rintaro offers the product of his experiment to be taste tested by either lab members. Both Daru and Mayuri declines the request with Mayuri commenting that the gelbananas are all gloopy, droopy, soft and squishy. {The music is hauntingly beautiful in this scene.} The banana being soft and squishy turn Daru into anime perv resulting in his nose bleed and forced exit from the room. Ultimately Rintaro realizes that even with '120#', the microwave is behaving as intended. No new answer was found and later they head to Daibiru.
+*  Location: [[id:a6e24d7b-308a-439e-a547-8e7e61071878][Daibiru]]
+#+BEGIN_CENTER
+dtd 7/28 (WED) 2:58 pm
+#+END_CENTER
+**  Daru and Rintaro are here to attend the seminar at [[id:77719c86-4a65-4272-adf6-ee15e331346c][ATF]], as a part of their study at Tokyo Denki University. To gain summer credits, they need to attend the seminar and write a report.
+**  Rintaro receives an email from Mayuri. She is feeling extremely sad about her lost Upa and compares her feels with the time when she missed out on buying Fatty Gero Froggy. {The game highlights 'Upa' and 'Fatty Gero Froggy'. It seems picking one of the highlighted texts sends a reply text from Rintaro.} Rintaro *decides* to reply about Fatty Gero Froggy stating that he thought she wasn't interested in the toy. {That frog like ugly-cute toy, which was the talk of the town as mentioned in the prologue, was referring to this Fatty Gero Froggy toy.}
+**  The building, Radi-Kan, where the large unidentified object crashed into, is just opposite of the Daibiru building. The area is heavily guarded and cordoned off. That's why Rintaro and Daru are unable to peep around to get more information. Amyway, both heads toward the elevator to reach 5th floor ATF assembly hall.
+**  On the way to ATF hall, Rintaro proposes another explanation to Daru about odd behaviour of phonewave. {Let me guess, things are time travelling inside the microwave. That's why, microwaved chicken comes out even more frozen?} **Rinatro make a bizarre statement about having a hunch that PhoneWave may be the key to opening Steins Gate.**
+**  Just when his about to exit the elevator, Rintaro bumps into Kurisu! Rintaro has done this panic talk with Kirusu before? Daru's comment sure seems to imply that. Wait, Daru is claiming that he received that email ***a week ago!*** Weird thing about that mail was that it was dated a week after he got it. This implies the mail came from the future. Mail details are as follow:
+**************** RCVD: Jul. 21 12:56
+**************** SENT: Jul. 28 12:54
+**************** SUBJ: Trouble
+**************** FROM: Okarin
+**  The email was split into 3 mails:
+**************** "Someone stab"
+**************** "bed Makise K"
+**************** "urisu. Don't"
+**  Why was a short message like this split into three parts? Rintaro informs other that he only sent one mail and almost 2/3rd of his messages are missing. After telling Daru and Kurisu about the afternoon incident, Rintaro comes to know from Daru that Doctor Nakabachi's presentation was cancelled because of the satellite crash. Amidst the confusion of mismatching timelines, all three heads toward the conference.
+**  Turns out Kurisu is the presenter of today's conference. She is going to talk about time machine despite it not being her field of expertise. Is it because she thinks this phenomenon is absurd? She continues her thoughts on  [[id:9cf2c301-ceed-4b15-9619-f354e23dd56e][Time travel]].
+**  When Kurisu shades her doubt on 11 existing time travel models because of their theoretical nature and occasionally contradictory behaviour, Rintaro questions her belief by asking what if someone comes up with a twelfth model? Kurisu elegantly answers his stupid question by simply stating that if that is a possibility then there is just as much likelihood of an emergence of 13th model which will contradict the 12th model.
+**  Kurisu presents detailed explanation of two theoretical methods to facilitate time travel and justifies her earlier statement on viability of time travel by going into detailed implementation of each method. The lecture ends up being very captivating for Rintaro as he comes out of the talk with newfound respect for Kurisu.
+**  After the lecture, Rintaro's mind goes back to his memories not meshing with the reality. The murder and then reappearance of Kurisu, the conversations with Daru and Mayuri not making sense are the events bugging his mind. Only logical explanation he have is that he might be hallucinating or dreaming things. Or, it might be all an illusion.
+*  Location: [[id:3bb9ae18-38f5-4105-b3ab-7d882f0ad032][Yanabayashi Shrine]]
+#+BEGIN_CENTER
+ dtd 7/28 (WED) =_:__= pm
+#+END_CENTER
+**  Rinatro heads alone to Yanabayashi Shrine. The reason? Well, exorcism of course. There are bigger shrines like Kanda Myojin in the vicinity but Rintaro intentionally chose this one for the privacy and secrecy. The shrine is neatly camouflaged from the general public eyes.
+**  Mayuri is standing inside the shrine alongside the shrine maiden Urushibara [[id:736cfa99-72da-4fbe-83f9-4fe95c66ea87][Luka]]. She is here to persuade Luka to cosplay one of her designed costume. After some squabble, Luka goes inside the shrine to bring exorcising equipment known as *oonusa*. Meanwhile, Mayuri is about to leave for her home when Rintaro asks her if she heard a man scream back at Radi-Kan? After confirming that she didn't hear anything, Mayuri leaves but not before pausing and waving half a dozen time.
+**  Luka comes back with *oonusa* and awkwardly exorcises the evil spirit from Rintaro's left arm. {Why left arm specifically?} Afterward Rintaro returns back to the lab.
+*  Location: Future Gadget Laboratory, Ohiyama Building
+#+BEGIN_CENTER
+ dtd 7/28 (WED) 7:16 pm (source: Mayuri's mail)
+#+END_CENTER
+**  In absence of Daru and Mayuri, Rintaro brings down his broken TV by himself to Braun Tube Workshop for repair. Inside the workshop is a huge 42 inch TV and standing in front of the gigantic TV is a gigantic man reading sports column in the paper. His name is Tennouji Yuugo.
+**  "A muscle bound guy talking about love... ", This is the thought that came to Rintaro when Tennouji told him to treat the CRT with love. {Don't fall for stereotypes, Rintaro! It will ruin your character.}
+**  When Tennouji is busy fixing the shop, Rintaro spends his time looking around in the shop. The shop is filled with variety of CRTs including those such as HD CRTs, flat screen CRTs that came out just before LCD took over the market. A mail from Mayuri arrives around the same time. It reads,
+     + I didn't want any of the other Gero Froggies, but I did want Fatty. But now that I think about it, it wasn't really that cute. Actually, it was kind of weird-looking. I wonder why I wanted one so bad. Hey, I just realized Fatty kinda looks like Daru-kun!
+****  Rintaro chose to focus on the mention of Daru, replying
+ + Just the body, right? No comment on Daru's face.
+**  On asking Tennouji why he is keeping his shop beyond 7, he says he is waiting for someone. Rintaro assumes that he is probably waiting for his little daughter, [[id:8059bed3-4f7a-4154-ae28-b02129e5f603][Nae]]. Rintaro portrays very shy image of Nae who is only friendly with Mayuri.
+**  Anyway,Tennouji diagnoses that a solder had came from the board and it can be easily fixed. Just when the talk of estimate price was agreed upon, a girl by the name of  [[id:caf8e76b-d0be-4905-b4f4-1c704b70ff34][Amane]] comes inside the shop. It seems she is here for the job interview.
+**  Tennouji is easily charmed by Amane's love for CRT and hires he instantly. After Rintaro introduces himself in high and mighty fashion babbling something about being target for the Organization, Amane offer him an odd assurance saying,
+#+BEGIN_QUOTE
+if you're ever was in trouble, Okabe Rintaro, let me know. I can help with stuff like that.
+#+END_QUOTE
+*  Location: University Campus
+#+BEGIN_CENTER
+ dtd 7/29 (THU) 11:24am (source: Lukako's mail)
+#+END_CENTER
+**  Around the late morning Rintaro receives an email from Lukako. He is very worried that exorcism may not have been done appropriately. Because of this he didn't even sleep properly in the night and because of that he couldn't do more than three swings with Demon Sword Samidare. Rintaro replies with some word of encouragement demanding his to practise on oozing dignity and confidence as a servant of the god.
+**  At present, he is having an iced coffee at the bakery inside Yodobashi. To pass time, he opens  [[id:60e8f82d-2017-42c1-a619-a9629d720385][Occult Board@channel]] message board. The occult board, the future technology board, and the physics board are some of his most frequented categories. Some of his searches are Makise Kurisu's stabbing and mass disappearance phenomenon but nothing turns up. Although, he does find posts in multiple thread from someone claiming to be "John Titor".
+**  Rintaro exclaims, "...Wait.  [[id:6182233e-8233-42f7-83ff-fc8d00279b9a][John-Titor]] is back?!" This person, **John Titor**, appeared on an American BBS ten years ago, claiming to be a **time traveller**. He claimed to have travelled from the year 2036 in order to obtain an old computer, *the IBN 5100.* His claims started quite a storm among the BBS denizens. Titor also made several accurate-if fragmentary-predictions of future events. Some of his predictions were:
+        1. The start of Iraq War
+        2. The spread of Creutzfeldt-Jakob disease (mad cow disease)
+**  He even provided the pictures of its operation manual and explained the principles behind his time machine, as a proof of him being from the future. But after about four months, he disappeared without even revealing his identity. Overall public reception was mixed bag because he got something right, some contradictory predictions and missed several others. That's why, to this day, most people doubt his authenticity as a time traveller. After 10 years of silence, the same John Titor is now on a Japanese BBS?! All this reeks of a troll behaviour. Why is John Titor, an American, posting on @channel in Japanese?
+**  Rintaro browse through [[id:89bbbf23-d746-4638-a351-d9ab272293d3][Archived John Titor's chat log]]. These posts give same vibe as what the original Titor wrote 10 years ago. Rintaro's knowledge on John Titor comes from reading one of the Titor's book. He let his skeptic thoughts win and assign this new John Titor as an imposter. After all there are several Titor fanatics on @channel.
+**  Contrary to Rintaro's belief, many responses are beliving the opposite. Everyone is accepting this "time traveller" as if this were his first appearance. It seems everyone has forgotten that this person appeared ten years ago. Rintaro post a retort but everyone ignores him. {Another anomaly in Rintaro's memory?} On searching for messages from the past, he finds 12 matches for John Titor but all of the mentions are of recent time. He is unable to find a single trace of Titor from 10 years ago. {what about the books though?} Is this another act of the Organization? More chaos and confusion!
+**  Rintaro recalls that he has discussed about Titor with Daru in the past. Surely he will remember their discussion. Rintaro sends Daru an email on the way back to the lab which Daru replies with his location, **MayQueen**, a maid cafe.
+*  Location: On the way to [[id:833c73b3-1e7d-4457-b7cf-f11a15e78967][MayQueen]]
+#+BEGIN_CENTER
+ dtd 7/29 (THU) 12:42pm
+#+END_CENTER
+**  On the way to the maid cafe, Rintaro notices that the Radi-Kan building was still off limits with entrance shutters closed shut and sealed with yellow police tape. On top of the Radi-Kan, the crashed satellite still lies there. Police reassured that the satellite was not dangerous much to the dismay of tourists and local business owner. Amidst the chaos of crowd gathered underneath the satellite crash site, a girl by the name of  [[id:14a28c3a-1829-40a3-938f-45a4b07aec12][Moeka]] Kiru is looking around snapping multiple photos including several clicks of Rintaro's face as well. When questioned by Rintaro, she apologises and says that she was just documenting where she was.
+**  She is looking for **phantom retro PC**, IBN-5100. It is the same PC John Titor was searching for in the year 2000. Rintaro makes a cryptic remark, "This could be the choice of Steins Gate." Rintaro accidentally ends up mentioning that super hacka Daru might have some information on it. Now, she is hell bent on getting contact info of Daru.
+**  She claims to be a part-time editor at some magazine called **Arc Rewrite**. Persuaded by the power she beholds, Rintaro ends up giving her his name and address. He gives his self actualised name Hououin Kyouma ('Houou' means Phoenix and 'Kyouma' menas 'a terrible truth' that should never be revealed). Moeka saves his name as 'Ho Owing Yo Ma'. Rintaro counters by saving her name as 'Shining Finger'. He sends her a blank mail and move on toward the maid cafe.
+**  At the cafe Rintaro is greeted by cat girls Mayuri and [[id:9379d0c6-cbaf-4b51-80a6-2f79a391e98d][Faris]]. A battle of delusion ensues between Faris and Rintaro resulting in devastating defeat for Rintaro. Meanwhile, his buzzing phone notify him of an email from Lukako, which reads as
+*** (7/29 1:40 pm): Dad won't teach me how to be a priest.He keeps saying he has "30 years of work" left in him, so he doesn't need my help. That doesn't explain why he keeps trying to teach me the **ceremonial miko dance**, though...P.S. I did 10 practice swings with Samidare.
+*** (**Reply**): The ceremonial miko dance? But according to the legend of Ama-no-/Iwato, that means...No! Don't tell me your father intends to open the gate?! It's too soon. {What is he blathering about????}
+**  Rintaro is led by Mayushii-Nyan to Daru's table. Daru seems pissed off because of the long chat Rintaro was having with Faris. Once things settles, Rintaro orders an omelette rice and hot black coffee. Anyway, back to serious conversation, it's time to look into Titor's mystery.
+**  Daru denies having any memory of John Titor from 10 years ago. He does leave a room for possibility by saying he might have forgotten the guy. If Rintaro can show the book that John Titor wrote 10 years ago, then he may be able recall. After all, a human's memory is nothing like computer. Rintaro put this topic on hold for the time being.
+**  Next, Rintaro inquires about the [[id:bc424e69-a45f-4083-a19a-b9bb3e0a910f][IBN 5100]]. Daru seems to be well aware of this model. Apparently, this PC was introduced in 1975. Rintaro recalls from the book that Titor travelled to  1975 first, obtained an IBN 5100, then leaped to 1998.
+**  Being a product before the time, that computer model was insanely expensive. It consisted of many proprietary IBN technology, and was pretty powerful for it's time. Six years later in 1981, IBN launched the popular IBN PC series which eventually become mainstream. Daru clarifies that all these information can be accessed online from the wiki. Nothing he is saying is some secret information.
+**  Rintaro brings up the urban legend of one such pc being in Akihabara. Daru confirms that he have also heard of such rumour. In fact, just last month it was a hot topic on the net. On further digging he found out that one of his friend on FrePara (a social networking site), ***Sister Centipede***, was the main person leading the search. Even the legendary ***Lightning-Fast Neidhardt*** joined the search crew, but they still couldn't find it.
+**  Moeka's mail arrives just in time as the conversation was going nowhere. Following some twisted logic, he decides not to reply her right away. Only reason that sounds convincing is that fact that there is no assurance on who she is working for. What if all her persona is a lie? Also, that email felt way more polite and formal compared to her in person impression. With these thoughts, he forget about the email for the time being and continue his conversation with Daru.
+**  Just when Daru is dismissing the nonsensical thought of Rintaro that IBN 5100 has capability to destroy the world, Faris comes with Omelette rice decorated with 'THE WORLD IS DOOMED!' in red letters. Much to dismay of Daru, Rintaro mercilessly mushes the letters and begin chowing down the food.
+**  Faris starts promoting her event  [[id:359def50-fb24-4d67-9ad1-16dd01f3c398][Faris Cup]] which will be a RaiNet tournament hosted at the cafe. Brought by the mind and organizing skill of Faris, one can participate in the tournament by paying the entry fee of 1000 yen (drinks included). Whoever defeats Faris gets to enjoy some of her home cooking. Daru claims that Rintaro will never participate in the tournament because he suck at the game. After politely declining the request, Rintaro began reminiscing with melancholic expression on his face. Hearing the name RaiNet AccessBattlers reminds him of a former champion from about 2 years ago. Daru interjects with the fact that RaiNet didn't even had official tournament until about a year ago. Faris, on the otherhand, runs away with the idea that the former champion was none other than her mysterious brother. So begins the interpolation of the supposedly hypothetical event:
+**  Kyouma...you still can't forget him, can you, nya? I remember that you and the champion-my brother-were such good frinds, Kyoma. You were so close it made me jealous, nya. But it's time to let go of the past! Seize the day with your own paws!...finger snap...Even though it's painful... no, because it's painful, I succeeded my brother's dying wish and purrfected my skills as RaiNetter, Nya! Dou you remember, nya? He always used to say, 'Someday, let's bring peace to the world with RaiNet-
+**  Timely interjection by Rintaro's reminder to serve the coffee brings halt to Faris' imagination train. Daru continue praising Faris' skill as RailNetter. Apparently, she has gone undefeated over 400 unofficial matches. Rentaro asks if she is the next Rickson Gracie {who?}. Because of her commitment to school and job, she has never participated in any official matches. Amidst the conversation, Lukako's replies to earlier mail comes by. He is just as confused gate-thing as we the readers are. Concliuding this line of conversation, Rintaro asks if he choose 2D or 3D. After some deliberation, Daru replies he is ***bi***.
+*  Location: Future Gadget Laboratory
+#+BEGIN_CENTER
+ dtd 7/29 (THU) 4:26 pm (source: Faris' mail)
+#+END_CENTER
+**  Rintaro and Daru arrives at the Lab in the evening. At the same time, he is greeted with Faris' hubris via mail:
+****  dtd: 7/29 16:26
+****  frm: Faris
+****  sub: The final battle is close at hand, nya
+****  You're more *purrceptive* than I thought, nya. So, now you understand what's at stake. The *Red Southern Cross* will *hatch* soon, nya. The time has come for Faris to journey to the Sanctuary and prepare for...I can say no more, nya...
+**  Rintaro's reply:(Red Southern Cross) I see. So the Holdeers of Original Sin-those who, like me, were born of Prototype 13-have begun to assemblein Akiba, guided by the star that we alone can see. The time is right.
+**  First thing first, after booting the office computer, Rintaro begins search for John Titor on @channel message board to check new mentions. He finds quite a few on Occult Board@channel. Sporadic explanations from John Titor and gibberish comments from anonymous users eventually tires out Rintaro and he goes back to completing the lab task at hand i.e. searching for explanation of anomalous behaviour of 'PhoneWave'.
+**  On Rintaro's request, Daru has connected the PhoneWave (name subject to change) to the computer. Rintaro notices X68000, a 20-year-old machine with specs lower than modern day cellphone. Daru shrugs off Rintaro's inquiry about the purchase of X68000 by giving an *odd-eye* explanation. Later, he follows up with a reasonable explanation that he didn't want to put in-use computers at the risk by attaching PhoneWave to them.
+**  Anyway, onto the gelification of the banana, Rintaro did some study on the sample. Examining the gelified banana sample under a microscope showed that the sample was shredded on a molecular level. It looked like the something drilled holes into the banana. The pattern reminded Rintaro of famous fractal structure known as '*Menger Sponge*'. {A neat fact about Menger Sponge - It can be shown that fractal density grows, the volume of the cube approaches towards zero, where as the surface area approaches infinity.}
+**  Rintaro proposes his hypothetical explanation: the microwave's electromagnetic wave is the culprit. {no shit, Sherlock?} "If my guess is correct, then our PhoneWave has the potential to become a weapon of unprecedented destructive power, one that could change the face of war as we know it. Hehehe" after this rambling proclamation, Rintaro whips out his phone and begin logging in spy jargon with mix of gibberish,
+#+begin_quote
+It's me. We are proceeding to stage 2 of the plan. Soon they will learn... that Judgment day is near.
+All shall be as Steins Gate wills. Resistance is futile. El Psy Kongroo.
+#+end_quote
+**  When Daru complains about Rintaro yapping with imaginary friend, Rinatro starts muttering to himself. He is worried that 'imaginary' contact will feel betrayed if he revealed his identity to others. The last thing he need is another enemy just as powerful and cunning as the Organization, if not more.
+**  So, the experiment begins. Rintaro shoves a bunch of bananas in the microwave and switch to Terminal mode of microwave's computer to monitor it's behaviour. Sadly the experiment is temporarily halted by mail Faris which reads
+**** dtd 7/29 16:55
+**** from: Faris
+**** sub: So, that was it after all, nya
+**** msg: The Holders of Original Sin, also known as the Prophets, nya. Among them is the girl known as "the Fallen Angel who Accepted Chaos," nya. I attached a picture of her face so remeburr it well, nya. Oh, and before I furrget, looking at the picture without protection will cause Divine Eye to activate Original Sin Excitation (Mode 666: Complusory Receptor Release) which will annihilate you at the subatomic level. So be careful, nya!
+**  After a small bicker about number of of bananas, since Daru rightfully complained about annhilating all Bananas without Mayuri's consent, the experiment finally begins with Rintaro making a call to PhoneWave and entering 120# instead of usual #120 as requested by Mayuri Guidance System. Daru brings up Rinatro's hypothesis and questions him in detail as to what is the source behind his conclusion?
+**  Rintaro defends with a made up Edison's quote;
+#+begin_quote
+ Without one percent inspiration, 99% of prespiration is wasted. So, inventor of the world... be inspired!
+#+end_quote
+**   Daru objects by presenting the correct quote,
+#+begin_quote
+ Genius is one percent inspiration, 99% prespiration.
+#+end_quote
+**   Rintaro retorts to 'Nuh Ah' technique to defend his statement. Just when he is about to debase further, the microwave dinged.
+**  WELL WELL WELL, THE BANANA IS GONE!!! The microwave is empty. Rintaro begins reporting to his 'imaginary' friend over phone:
+#+begin_quote
+ It's me. Slight problem. We may have awakened something... terrible.
+ I'm invoking Emergency Order 666. Activate the Coldheart Protocol!
+ What?! What do you mean we need congressional approval?! There's no time, you fool! Tokyo will be blasted to atoms!
+#+end_quote
+**  Rintaro first rational thought is that Daru must have pulled some magician trick. Daru reciprocate by blaming Rintaro of similar deed. The mad scientist has rectified his hypothesis from EM weapon to a teleporter. Just as Rintaro lunges toward rest of the banana to chomp on one and clam himself down, he sees a gelified banana reattached to the bunch.
+**  "That's an interesting experiment.", out of nowhere, Kurisu chimes in with a casual remark when Daru and Rintaro were losing their head. Interestingly, Daru doesn't seem surprised by Makise's presence. {unreliable protagonist} "YOU"VE CROSSED THE LINE BIITCH", thus continues Rintaro's tirade after feeling a tinge of betrayal from Daru.
+**  Rational explanation is Daru gave her the address and Rintaro's real name after the lecture. Anyway, casual discussion around the banana leads to overclocking of Daru's Carnial Pervert Processor. Kurisu's embarrassment was put on the hold for the time being as Mayuri's mail arrives,
+**** dtd: 7/29 17:13
+**** from: Mayuri
+**** sub: Dangerous
+**** msg: Daru-kun was taking a nap earlier, and I think he has sleep apnea! It really surprised me when he stopped breathing. I told him he should lose weight, but he won't listen. Okarin, you should talk to him too.
+**  After minutes of perviness from Daru and Rintaro, Kurisu is made privy to the lab's experiment under 2 conditions:
+1. She must become the lab member.
+2. She must overlook all past acts of molestation Rintaro and only Rintaro may or may not have committed!
+**  Kurisu throws away ridiculous explanations like EM weaponry and teleportation right away and begins repeating the experiment. Vola! Exact same result! A gelbana has reappeared in the bunch replacing the banana that was tore off earlier. Our Mad Dumbo is still insistent on calling this event teleportation, but is it teleportation?
+**  Kurisu timed the exact moment banana disappeared from the microwave. It was around ***104th second*** of the timer that banana disappeared instantly from the microwave. She ponders over the idea of Teleportation but thinking about teleportation even on quantum scale,  which is nothing but glorified instantaneous copying of the information, makes her doubt this conclusion.
+**  Kurisu begins analysing the experiment. She brings out the factual observation that neither the bunch of banana nor the frozen chicken teleported. Rintaro brings forth an explanation fitting the teleportation theory that there may be a critical mass limit associated with the phenomenon.
+**  They have also tried the experiment on salt grains with or without the containing plates but none of the cases resulted in disappearance of the salt. Does that mean there's a lower limit to mass that is necessary to instantiate this phenomenon.
+**  By Daru's account, one time the PhoneWave shot off a huge electric discharge. it felt like a fluorescent light lighting up the room. It lasted about 2 seconds. Daru was adjusting the cell phone attached to the microwave. He unhooked the phone and attached his own own cell temporarily and it all went *sparky sparky* a little bit later. This incident happened around noon yesterday, nearly the same time when Rintaro went to see Dr. Nakabachi's presentation.
+**  Let's recap list of anomalous incidents that happened yersterday:
+1. Daru stated that Dr. Nakabachi's presentation was cancelled and despite this Rintaro went with Mayuri to Radi-Kan. Rintaro's memory seems to disagree with some of the facts.
+2. Right after the incident, Rintaro recalls sending an email to Daru notifying him of Kurisu's demise. On Daru's phone, that email had seemed to arrive nearly a week ago. But Rintaro's phone shows no such evidence.
+**  It seems the timeline of odd electric discharge aligns with email incident. Our mad genius thinks that all these incidents are connected. {very intriguing} Surprisingly, Okarin proposes a meaningful idea that we should try replicating that electric discharge phenomenon on the PhoneWave. This may give some insight into odd timestamp on the email.
+**  Daru details the circumstances of the first electic discharge incident,
+1. He connected his phone to the PhoneWave and was testing to see if he could control it with the X68000.
+2. He was adjusting the incoming mail settings. He was monitoring the moment it received mail for remote control.
+3. That's why he put it on 'freezing mode' for 120 seconds. He made it so that he could start freezing mode by computer. He tested that yesterday as well.
+**  After getting details of information displayed on the computer monitor, Rintaro initiates the experiment with some of those Juicy Chicken Number One. He enters '120#' on the keyboard and press the enter key. The turntable starts spinning backward. Kurisu is keenly observing the experiment so as to not miss even tiny little details.
+**  Rintaro asks Kurisu to send a mail to his phone which is connected to the PhoneWave. Based on previous incident, it is expected that the message should arrive with timestamp in distant past. Since Kurisu doesn't know his email address, it's Daru who ends up sending the message. Meanwhile, Mayuri, who is lurking around, comes across the gelified bananas - gelbanas.
+**  Mayuri is pissed off about Okarin using her food for experimentation purposes. UYpon realizing that her Juicy Chicken Number One will be subjected to same fate, Mayuri lunges toward the PhoneWave to open the door and take out her chicken. ***Alas! it's too late. Mayuri is trapped in the vortex of the electric discharge!*** The blue-white light engulfs the room. Okarin pulls Mayuri away from the apparatus. The room gets veiled in the cloud of smoke with strong burning smell and eye-numbing flashing light. Oh no! Only Kurisu and Daru could be heard coughing. Is Mayuri gone?! Nope, Mayuri is still hanging onto Okarin's arm with her slender fingers.
+**  Once Rintaro's vision clears he sees that the table, where the equipment was placed, has precisely split into two nearly equal halves. It looks almost as if someone chopped it with woodcutter's axe. The computer and it's associated parts are scattered on the floor but the microwave itself has somehow pierced the floor after falling off the broken table. It doesn't seem to be heavy enough to dink the floor simply by gravitational fall.
+**  Rintaro seizes the moment with a maniacal laugh followed by self-proclaimed gibberish *'El Psy Kongroo'*. **El Psy Kongroo**, the words that bear no meaning but Rintaro loves to say because it sounds cool. {Maybe, this catchphrase makes Rintaro feel that he in control of the situation. That's why just speaking them calms his hear.}
+**  On Daru's mention about the chicken, Mayuri goes on to check the microwave only to find the pieces all burnt up. {Wait, why is Mayuri calling Kurisu Christina? I don't think she was there when Daru and Rintaro was teasing Kurisu.} After silencing all bickering, Rintaro check his phone to look for emails. He notices a mail from Daru dated a week ago:
+**** dtd: 7/24 17:30
+**** from: Daru
+**** msg: Okarin's a p
+**  Rintaro begins proposing his new conclusion. Listing all the observed events, which are:
+1. The mail was sent to the past,
+2. The chicken returned to its frozen state,
+3. The plucked banana returned to the bunch,
+It is fair to assume that this PhoneWave is a time machine!

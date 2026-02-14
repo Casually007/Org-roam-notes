@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       cf5e0883-ac65-423b-8671-457f1a6c99b2
+:END:
+#+title:Rintaro
+#+filetags: :SteinsGate:Character:
+
+* Details
++ Self actualised name: Hououin Kyouma
++ Rintaro also lives in Ikebukuro but he has been staying at the lab since the summer break began.
++ Age: 18

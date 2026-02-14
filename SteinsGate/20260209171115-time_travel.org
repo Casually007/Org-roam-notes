@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       9cf2c301-ceed-4b15-9619-f354e23dd56e
+:END:
+#+title:Time travel
+#+filetags: :SteinsGate:Keyword:
+* After-thoughts
+
+
+* Details
+
+** Scientists have proposed many theoretical models of time travel, but there are 11 in particular worth mentioning. These 11 theories are as follow:
+       1. Neutron Star Theory
+       2. Black Hole Theory
+       3. Lightspeed Theory
+       4. Tachyon Theory
+       5. Wormhole Theory
+       6. Exotic Matter Theory
+       7. Cosmic String Theory
+       8. Quantum Gravity Theory
+       9. Cesium Laser Theory
+       10. Elementary Particle Ring & Laser Theory
+       11. Dirac Antiparticle Theory
+**  [[id:1d9e7331-84b9-4ba2-9304-f370b3c5dfe1][Kurisu]] claims that all these models theoretical and occasionally contradict each other.
+**  She explains two theories in particular:
+*** Cosmic String Theory: A cosmic string is a string shaped 'crevice' with extreme mass. The crevice is as wide as an elementary particle and at least as long as the diameter of a galaxy. It has immense mass, so it distorts space-time. If one were to travel through that distortion, you could make full circle around the string in less than 360 degrees. In short, you could do something resembling a warp. This is called a space-time angular deficit. Passing through the area of angular deficit results in zero transit time. Mow, consider a cosmic string moving at near-light speed. When you apply special theory of relativity, time will flow slower for the cosmic string in relation to its surroundings. Therefore, passing through the area of angular deficit would cause the transit time to become negative instead of zero. This means you will arrive in the past after transit. If you use two cosmic strings, you can do a space deficit jump. If you loop back to your original location, you can return to the same time you started revolving. This a rough description of time travel by cosmic string. Also, cosmic string is not the same as [[spuerstring]]. To summarise, you need three things in order to travel to the past using cosmic string:
+**** Two cosmic strings (could be hard to find as they are hypothesize to only exist where the universe was first formed)
+**** Necessary energy required to make these cosmic strings move at near-light speed. (Wonder how much energy it would need to accelerate something as long as the Milky Way to near the speed of light? Somewhere around 1.21 jigowatts {gigawatts})
+**** A potent spaceship capable of reaching these cosmic strings and returning, of course with time traveller alive.
+*** Wormhole Theory with a Hint of Exotic Matter: There are two wormholes joined by a tunnel. No matter how far away the wormholes are, transit time through the tunnel is zero. The wormhole tunnel suffers from supergravity and thus is likely to collapse as soon as it opens. The effect of gravity can be negated by using 'exotic matter' in the tunnel. Exotic matters are substance with negative mass which repulse other matter. A tunnel stabilized with exotic matter injection can facilitate instantaneous travel between wormholes. To travel through time via wormholes need more effort. Consider the case where the wormhole entrance is in Akihabara and the exit in Los Angeles. We send the wormhole located in LA all the way to the end of the universe at near the speed of light and yank it back to LA. By special theory of relativity, time slows down for the objects moving at the speed of light. This means, the hole returning to LA would be further in the past than the Akihabara hole. At this stage this still can't called true time travel.{[[id:fe62d276-4244-4c74-a8d7-35cc5dc52dfd][Urashima Effect]]} The important part is to return back to Akihabara from LA through the wormhole once more. Since the transit time is zero, traveller will return to Akihabara several years in the past, thus completing the travel. Prerequisite for time travel through worm hole are as follow:
+ 1. The wormholes (haven't been observed so far)
+ 2. Energy needed to move a wormhole to the end of the universe and back at near-light speed.
+ 3. Exotic matter (has not been confirmed to exit)
+** Implementation of either method would require immense effort and godly amount of luck. Time travel theories are all just thought experiments.
+** If we set aside the logistic requirements, there are other factors as well which may prevent time travel from working. The fundamental problems concerning the principle of causality have not yet been solved. For example, we have the Grandfather paradox as a n example of time paradox which violates the principle of causality. To quote [[Kurisu]]:
+#+begin_quote
+Any paradoxes no matter how small, would cause the total collapse of causality, relativity, and every other physical law in existence. Paradoxes are nothing more than thought experiments. They cannot occur in reality, and they should not. Nothing that has even a 0.000001% chance of causing a paradox can happen. The universe won't allow it. There may be loopholes, like parallel worlds or the self-consistency principle, but those seem too much like fantasy for me to accept.
+#+end_quote

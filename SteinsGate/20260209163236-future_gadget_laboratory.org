@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       e3ad92cc-8fe8-40fb-a7b2-b65e4fbf9c2f
+:END:
+#+title:Future Gadget Laboratory
+#+filetags: :SteinsGate:Place:
+* After-thoughts
+
+
+* Members
+          - [[id:cf5e0883-ac65-423b-8671-457f1a6c99b2][Rintaro]]
+          - [[id:ec77fd83-5cf4-484e-a1f3-890f1b351c08][Mayuri]]
+          -  [[id:a1004a17-e9c0-4284-aebb-b925d4509a1f][Daru]]
+
+* Goal: Develop weapons for the war against the Dark Dominion, led by the Organization.
+
+* Means to achieve the goal: Complete /108/ inventions
+
+* Website: http://futuregadget-lab.us
+
+* Details
+**  Rintaro's visit today was 0000000000328th visit to this site.
+**  So far, 8 gadgets have been developed with current focus on improving the 8th gadget.
+** All these ingenious future-ish gadgets are serendipitous outcome of their research toward accomplishing the goal. They haven't made any invention as of yet that can fulfil their goal. In fact, they haven't even figured out what sort of inventions they would need to accomplish their goal. You can say that /serendipity guides the way/ is motto of this lab.
+** List of gadgets developed so far:
+*** =Bit Particle Gun=: A toy ray gun a TV remote jammed inside. Shooting the gun will change the channel. However "Channel +" is the only supported button so every other remote functionality must be handled manually including turning the TV on/off.
+~{Mobile Jacket Gunbam, is it referencing Mobile Suit Gundam?}~
+
+*** =Bamboo Helicam=: A CCD camera mounted on the bamboo toy helicopter. Being attached to the fulcrum, the camera can operate without external power. Downside is the fast rotating images which is be headache inducing to look at in the real time.
+~{Love to know more about the sci-fi manga "22 Emon" this gadget is referencing.}~
+
+*** =Could This Be Ora Ora?!=: A lie detector based on thumb perspiration. Alternatively, one can call it a glorified sweat detector but that doesn't sound cool, does it?
+
+*** =Moad Snake=: An instant super humidifier, that can generate enough steam to fill a room of 12 m^2. Though continuous operation duration is limited to a few seconds. It looks like a claymore land mine, which is sure to appeal military academy.
+*** ="Once Again I've Made A Worthless Object" by Goemon=: Dryer + Vacuum. The dryer is operated by using the exhaust of the vacuum.
+~{What is '*Lupants the Third' referencing?}~
+
+*** =Cyalume Saber=: A red light saber toy. Made possible by Future Gadget Lab's hardware and excellent chemical knowledge.
+
+*** =Ghost in the Ball=: Twelve 6-inch CRT monitors are arranged in form of a sphere with each gaps filled by C-MOS cameras. The gadget in it's complete form, creates optical camouflage by connecting all these cameras to monitors on the opposite end. Despite holding the masterpiece label amongst other invented gadgets, its sheer size makes it difficult to store in the house.
+
+*** =PhoneWave= (/under development; name subject to change/): It's a remote-controlled microwave. Essentially, this gadget starts the microwave on giving the call.

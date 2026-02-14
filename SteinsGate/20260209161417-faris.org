@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9379d0c6-cbaf-4b51-80a6-2f79a391e98d
+:END:
+#+title:Faris
+#+filetags: :SteinsGate:Character:
+* After-thoughts
+
+
+* Detail
++ Cat girl at [[id:833c73b3-1e7d-4457-b7cf-f11a15e78967][MayQueen]] who goes by the name Faris NyanNyan
++ Age: 16 (same as [[id:ec77fd83-5cf4-484e-a1f3-890f1b351c08][Mayuri]])
++ Most popular maid the the cafe.
++ [[id:a1004a17-e9c0-4284-aebb-b925d4509a1f][Daru]] has a crush on her
++ Public blogger?
++ Good at ~~outsmarting~~ out-deluluing [[id:cf5e0883-ac65-423b-8671-457f1a6c99b2][Rintaro]].
++ Faris is also in on Rintaro's knowledge of the Organization. She even knows his real name. In fact, she is even more infatuated with the Organization than Rintaro himself.
++ Battle of delusion dtd. 29/7:
+#+BEGIN_EXAMPLE
+  Faris: "Mastered the secret technique...Completed the Pilgrimage to the Guiana Highlands...Overcame mentor's death...Wants to participate in the Spirit Conference like Rintaro promised..."
+  Rintaro: "Venture to the Sanctuary?!...No! Too inexperienced even with the hidden secret..."
+  Conclusion: Rintaro lost.
+  #+END_EXAMPLE
++ Mayushii has a hard time saying Faris, so she calls her Feris-chan instead.

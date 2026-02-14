@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bc424e69-a45f-4083-a19a-b9bb3e0a910f
+:END:
+#+title:IBN 5100
+#+filetags: :SteinsGate:Keyword:
+* After-thoughts
+
+
+* Detail
+- From [[id:a1004a17-e9c0-4284-aebb-b925d4509a1f][Daru]]'s knowledge, IBN 5100 was the model released wayback in 1975.

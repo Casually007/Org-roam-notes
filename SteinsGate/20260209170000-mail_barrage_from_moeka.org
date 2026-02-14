@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       e09974e7-d2cb-4e5e-b3f9-384716994d91
+:END:
+#+title:Mail barrage from Moeka
+#+filetags: :SteinsGate:ChatLog:
+* After-thoughts
+* Mails from [[id:14a28c3a-1829-40a3-938f-45a4b07aec12][Moeka]]
+** from: Shining Finger dtd: 7/30 12:34
+*** sub: You sleep too much.
+#+BEGIN_COMMENT
+I haven't gotten a reply yet. Are you still asleep? You sleep too much, Okabe-kun. You're living like an old man. Well, I guess I'm not one to talk (lmao). Anyway, let me know when you have something on the [[IBN 5100]].
+Pretty please @ Moeka.
+#+END_COMMENT
+** from: Shining Finger dtd: 7/30 3:36
+*** sub: Wake up!
+#+BEGIN_COMMENT
+I'm nocturnal, so I usually don't go to bed until the sun comes up. It's not so bad once you get used to it. Mail me when you wake up, okay?
+#+END_COMMENT
+** from: Shining Finger dtd: 7/30 3:28
+*** sub: Asleep?
+#+BEGIN_COMMENT
+Are you still asleep? Rise and shine! Have you talked to the super hacker yet? Oh, I'd like to hear more about John Whatshisface. I'm super curious!
+#+END_COMMENT
+** from: Shinning Finger dtd: 7/29 21:52
+*** sub: Phone 2
+#+BEGIN_COMMENT
+I just remembered I didn't tell you my phone nuber.(;) That's okay. I'm more comfortable communicating by6 email anyway. What about you, Okabe-kun?
+#+END_COMMENT
+** from: Shining Finger dtd: 7/29 21:14
+*** sub: Phone
+#+BEGIN_COMMENT
+By the way! I don't like talking on the phone, so please don't call me(;)
+Byebye Moeka
+#+END_COMMENT
+** from: Shining Finger dtd: 7/29 20:47
+*** sub: Schedule
+#+BEGIN_COMMENT
+Are you a day person or a night person? If you'd rather I email you around a certain time, let me know. I want you to reply as soon as you can, but I don't want to be a bother, so let me know, okay?
+#+END_COMMENT
+** from: Shining Finger dtd: 7/29 20:09
+*** sub: Student?
+#+BEGIN_COMMENT
+Moeka here, are you a student Okabe-kun?
+#+END_COMMENT

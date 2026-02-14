@@ -1,0 +1,278 @@
+:PROPERTIES:
+:ID:       9caecc07-a4b9-407b-80cc-defb92424f87
+:END:
+#+title:Chapter-2
+#+filetags: :SteinsGate:Abstractly_Wandering_Rendezvous:
+* After-thoughts
+* Pressing Questions
+*  Location: Future Gadget Laboratory
+#+BEGIN_CENTER
+ dtd 7/30 (FRI) 12:34 ~{Noon}~ (source: Moeka's mail)
+#+END_CENTER
+**  [[id:cf5e0883-ac65-423b-8671-457f1a6c99b2][Rintaro]] wakes up to [[id:e09974e7-d2cb-4e5e-b3f9-384716994d91][Mail barrage from Moeka]]. ~{5 unsolicited mails, what's the deal with this Moeka person? Is she stalking or honey potting our boy or that's just her typical personality? All of her emails are dear diary level of rambling.}~  [[id:a1004a17-e9c0-4284-aebb-b925d4509a1f][Daru]] is busy on his PC. Choosing not to disturb Daru, Rintaro begins recalling the aftermath of incident that happen last night.
+**  [[id:1d9e7331-84b9-4ba2-9304-f370b3c5dfe1][Kurisu]] couldn't accept Rinatro's conclusion that they had discovered the time machine. She dashed out of the lab in a mad rage. Feeling depressed about her chicken and bananas, Mayuri skipped her daily costume sewing and went home. Daru and Rintaro continued experimenting to test different items but nothing happened. Since that last electric discharge, everything behaved normally as intended, no gelification whatsoever.
+** Reviewing the problems revealed by this last run of experiments:
+  1. *Electric discharge safety precautions:*
+     + removed everything flammable from the development room to reduce the risk of fire.
+     + prepared two fire buckets full of water.
+     + may think about relocating to new location if need arises.
+  2. *Mass Increase:*
+     + When the discharge phenomenon occurred, the PhoneWave gained mass for unknown reasons. This led to a broken table and huge dent on the floor.
+     + Solution: Let's dump the microwave on the floor with a little bit of cushioning. The hole on the floor getting hid by this is a bonus.
+  3. *How shall we replicate the experiment again?*
+     + How to determine the necessary condition to send email to the past? They've already tried 40 different ideas but none of them worked so far.
+     + One such idea was to open the microwave door at key moment. But that theory didn't pan out well.
+  All lab member currently seems to be at an impasse.
+** Around same time, a new mail joins the list of mail barrage from Moeka. Rintaro justifiably labels  [[id:14a28c3a-1829-40a3-938f-45a4b07aec12][Moeka]] as mail demon and continue ignoring her.
+** Just as Rintaro is asking Daru to join him for some beef bowl at Sanbo, his phone rings with a mail from Mayuri which reads:
+**** frm:  [[id:ec77fd83-5cf4-484e-a1f3-890f1b351c08][Mayuri]] dtd: 7/30 12:36
+**** sub: (; __ ;)
+**** Mayushii's spending money is getting dangerously low.You and Daru need to chip in too sometimes! You didn't want to get between me and my food ><
+** Rintaro replies back in a sympatising tone, asking her not to get angry. He promises to give her treat in the near future. Meanwhile, he encourages her to keep buying bananas for experiments' sake.
+** Daru doesn't seem very interested in going out. He is busy looking into Large Hedron Collider (LHC), a SERN built experimental setup for quantum particle experiment. Daru finds the device very _moe_. Apparently, he is also a huge fan of factories and the undersides of highways. 2D, 3D, inanimate objects...My guy doesn't believe in limiting his interests, for life is too short!
+** So begins the chit-chat on the topic of  [[id:ae74f4f4-9ed7-4459-b8d6-aa5b43acaf61][SERN]]. When Daru mentions the rumour about possibility of creation of the mini black holes as a consequence of experimentation at the LHC, Rintaro recalls Titor claim of his time machine using mini black holes.
+** Continuing on the path of speculation, Titor also claimed that SERN began their research in 2001 and completed their time machine by 2034. Speculative path led to the path of madness:
+#+BEGIN_COMMENT
+John Titor...SERN...connected to the Organization...destructio of the world...mini black-hole...steal this technology...Everything is the choice of Steins Gate. El Psy Kongroo...
+#+END_COMMENT
+** Meanwhile, a pleasent mail from Mayuri arrives.
+**** frm: Mayuri dtd: 7/30 12:59
+**** sub: Thank you very much
+**** Just hearing that from Okarin makes me happy (>= \/ <=)
+** **Steal the Technology** This is the big idea Rintaro comes up with. His fist step to accomplish the goal: **Hack the SERN**! Daru is ready to go! Amount of delusion reaches the critical mass with a mail from super-delulu Faris,
+**** frm: Faris dtd: 7/30 16:28
+**** sub: Original Sin level rising to 180%
+**** Kyouma... when operating in the *Mundane World*, you're supposed to be *discrete*, nya. You don't want Them to notice you. Remember, the summoning has taken *2000* years to prepare. If it fails, everything will be ruined... although I suppose that might make things *interesting*, nyahaha.
+***** ***Rintaro's reply*** <Keyword: 2000 years* : Is the church still devoted to that fool's errand? Even if they managed to resurrect their Messiah, humanity's faith is less than 17% of what it was in his time. mankind doesn't need decrepit gods to save them.
+** Rintaro hops onto @channel thread after a nice and cozy afternoon nap. Coincidently, Titor is currently active on the thread.  [[id:0ad513d9-f1ba-4a26-aaa3-e52e8bc0c2dc][Chat log no 3]] documents the events of the battle of keyboard warriors. This heated internet argument is interrupted by  [[id:caf8e76b-d0be-4905-b4f4-1c704b70ff34][Amane]], the girl interning at the CRT shop * Braun Tube Workshop.
+** Amane informs Rintaro that his TV has been fixed. Small chit chat, on the way, reveals that Amane is aware of terms like 'Organization', 'SERN' and their contemptible nature. Turns out, she gleaned these informations while evesdropping over Daru and Rinato's afternoon conversation. She claims that one can easily hear stuff from the window by standing nearby. Since the shop rarely gets customer, she has been passing her time reconnoitering.
+** Amidst the chit-chat, a mail from  [[id:736cfa99-72da-4fbe-83f9-4fe95c66ea87][Luka]] arrives.
+**** frm: Lukako dtd: 7/30 18:23
+**** sub: I made sweets
+**** I baked *cookies* today. I had everyone in my *family* eat some, and got their seal of approval. Would it be okay if I baked some for your lab friends, master? Oh, and it would be great if you could teach me some techniques with Samidere whenever you have *time*.
+**** P.S. I managed 10 practice swings today.
+***** ***Rintaro's reply*** ~{Keyword: time}~ You mustn't depend on me. Remember, all things come to an end. Every meeting heralds a parting. I can't hide from the Organization forever, and the seal on my arm grows weaker by the days. When I'm gone, you'll have to take care of yourself.
+** While bickering about carrying the TV up the floor, another mail from Moeka arrives.
+**** frm: Shining Finger dtd: 7/30 18:30
+**** sub: Por favor!
+**** O-ka-be-ku-n! I want you to reply to me already. I've been waiting, you know. And please tell me the super hacka's address when you can. If we don't get cracking, someone else might get to the IBN 5100 first!
+**** Moeka
+** ~{For someone, who loves to appear secretive and mysterious, my guy can't stop blabbering key facts in front of stranger.}~ He talks to Amane about this woman obsessively looking for IBN 5100. Amane's reaction suggests that she knows something way more than the story told in urban legend. After admitting to acting a little sus, Amane offers a hint that IBN 5100 is capable of a secret function. Apparently, IBN 5100 can do something unique with a proprietary programming language. According to Amane, this proprietary language was developed before languages like APL and BASIC became mainstream.
+** Rintaro affirms that John Titor said similar thing in 2000. This was also confirmed by an IBN engineer officially. With the proprietary programming language left in the dust, the only machine that is capable of deciphering it is an IBN 5100.
+** During the conversation, Amane keep staring at a metal pin in her hand while rolling it around with her finger.  The conversation ends with Rintaro dreaming about acquiring IBN 5100 and selling it to raise research funds.
+*  Location: Future Gadget Laboratory
+#+BEGIN_CENTER
+ dtd 7/31 (SAT) 8:43
+#+END_CENTER
+** It's been 20 hours since Daru started hacking into SERN. Deciding not to disturb him, Daru goes right back to browsing @channel thread.  [[id:afe20a0a-2ef0-4f4b-99b7-da5ef587b031][Chat log no 4]] details how he ends up with email address from John Titor. He decides to probe further into this John Titor's business by sending him a mail.
+**** To: John Titor dtd:7/31 8:43
+**** sub: Sorry for the sudden mail.
+***** 1. In 2015, World War 3 breaks out.
+***** 2. In 2036, the world is contaminated from nuclear warfare.
+***** 3. You traveled from 2036 to 1975 to obtain an IBN 5100.
+***** 4. The IBN 5100 has a hidden function.
+***** 5. Only a few of IBN's engineers knew about it.
+***** 6. In 1998, you went to America to see your young self and your parents.
+***** 7. You were a soldier before volunteering to become a time traveler.
+***** 8. You're American.
+**** This is how you described yourself ten years ago. Why have you changed your story?
+**** Also, most of your prediction didn't come true. If you're from the future, then why didn't your predictions come true?
+**** I'd appreciate a satisfactory explaination.
+** Rintaro recalls predictions made by John Titor of 2000s. Predictions like The Peruvian coast earthquake in 2001, the election of new pope, the outbreak of the Iraq War, China's advances in space did come true. Other predictions such as the Y2K bug, civil war in America, the cancellation of the Beijing Olympic, the inauguration of America's first female president in 2009 remain unfulfilled. The goal of the email sent earlier is get a satisfying explaination behind these failed perdiction. If his answers don't hold well, then he has to be an imposter.
+** Here comes Mayuri! ~{It's been a while.}~ She has brought some canned oden (270 yen each) for the boys. That's not all, she also bought 'RaiNet Sausage' which come with an Upa bottle cap as a bonus! It seems we have 'one for me and one for thee' business going on.
+** While answering about the current state of Daru, Rintaro recieves a bonk from coke can thown by Daru for calling him 'hacka'. Amidst the chaos, Rintaro's phone buzzes with a mail notification.
+**** frm: skyclad2010@egweb.ne.jp dtd: 7/31 8:38
+**** sub: Greetings
+**** This is Amane Suzuha. First email! Thanks for *exchanging addresses* with me yesterday. I finally made a frien *here*. Yay! Don't worry. I won't email you too much. And I might be *slow to reply* too. I'm kinda new at this email thing. It's okay to laugh at me!
+***** ***Rintaro's reply***: <Keyword: slow to reply* Haven't used cell phones much?
+** From the news articles online, it appears that SERN's system was sucessfully hijacked in 2008. This is why, Rintaro is confident that super hacka Daru will sucessfully penetrate SERN's security. Mauyri, on the other hand, is very concerned about boys doing bad things. When Rintaro claims that this is for the grater good i.e. to eliminate a future evil organization, Mayuri replies that Bad things are bad. Feeling a hint of guilt, Rintaro tries to change the subject.
+** "Soon... If I can get the SQL table, I'll have more than enough passwords... Geheheheh... You're no match for me..." This is what comes out of Daru's mouth just as Rintaro suceeds in changing the topic of discussion with Mayuri. Daru has entered in the state of **la petite mort**/saintly mode/post-nut clarity mode.
+** Daru has succeeded in breeching into SERN intranet by obtaining a login credential through brute force. How much deeper he can penetrate, depends on level of the login credential. Best case scenario would be server admin, likewise if it belongs to ordinary researcher then best we can see is SERN's boob. Fishing for a login credential with guranteed server level access will consume further time. Daru is too tired to give it an another go. Anyway, the ID that Daru obtained belongs to *an accelerator division chief* by the name =Jack=.
+** Looking into =Jack='s emails, there is an email with subject 'Experiment Report' dtd: 02/09/2010 21:10,
+#+begin_quote
+Hi Pole,
+Uploaded today's data to the server. The LHC is performing admirably. Can't say the same about the rest, though. This baby is fickle as a cat, but it was surprisingly obidient this month. It would be great if it stayed like this forever. But don't you think this work is unrewarding? This kitten-this 27 kilometer long kitten, haha, smiley face-has been in operation for 9 years. Our research will change the course of history, yet only a small group of people are allowed to see it. Of course, if it were ever officially released, it would be one hell of a scandal. People would probably say something like, 'Call  [[id:428373e3-979c-41f0-8e4d-3ec7e543408b][Robert Zemeckiff]] to SERN right away. He could build it in less than a year'
+#+end_quote
+** By public account, the LHC has been operational since spring last year. Yet, this email claims that it has been operation for nearly 9 years. If  [[id:6182233e-8233-42f7-83ff-fc8d00279b9a][John-Titor]]'s words about not falling for SERN's lies to be believed, then only possible conclusion is that SERN are conducting secret experiments. Perked up Rintaro requests Daru to look up for anything related to time machine research.
+** Daru doesn't find the search term 'time machine' in the email logs but there is this term by the name 'Z Program' which has been appeared several time in recent times. Daru open a pdf attachment containing one such mention. Seemingly, this document is some top secret stuff from France, England, and Holland. The gist of document goes something like this,
+*** May 14th, 137th Z Program Experiment Report
+**** Because we have already succeeded at creating mini black holes, the report is omitted. To begin --...
+**** Results: Error. Human is dead. Mismatch. For details, consult Jellyman's Report No. 14.
+**** We propose that further experiments be halted until the lifter is perfected and all local field conformity points are online.
+** Okarin is panicing! After putting on a brave face he asks, "What is this Jellyman's Report?" Nothing new of relevance could be gleaned further from the email list. Based on the frequent mentions of 'accelerator technical committee' and 'LHC project lead' in mails associated with LHC and Z-Program, Daru concludes that they need to get access of IDs of these personnels to probe further.
+** Once the conversation on email hacking comes to a halt, Daru makes a parting remark that apart from the SERN's biggest server that he logged on to, he also found a strange database on the network. Seemingly, that database was buggy. By buggy, he means that the database was full of gibberish code. By gibberish, he means utterly impossible to decode. ~{Is that gibbberish code written in the Proprietary IBN language that can only be decoded by IBN 5100? Seems very likely...}~
+** Amidst Daru's nervous breakdown due to failure to make sense out of the code, Rintaro recieves a message from John Titor.
+**** frm: John Titor dtd: 7/31 10:39
+**** sub: Are you being honest?
+**** If everything you wrote is true, then we have a lot to talk about. Particularly concerning the IBN 5100's hidden functionality, which I have not mentioned to anybody yet. I'm indeed surprised that you know about it. However, I have not gone to the year 2000, though it is possible I may go there later. There are 3 possible explainations:
+***** 1. The John Titor who appeared in 2000 is my future self. In other words, I got to 2000 later and write about things you have told me. But that would cause a chicken and egg paradox, wouldn't it.
+***** 2. You're delusional or making things up. For the sake of serious discussion, let's set this possibility aside.
+***** 3. You may have seen something I wrote on a different world line. That would mean that 10 years ago, you existed on a different world line than the one we're on now. However, that raises another issue. When the world line changes, the entire timeline is reconstructed from past to future in order to prevent a paradox from occuring. That was proven in 2036. In other words, it should be impossible for you to retain memories of a previous world line. Unless you too are a time traveler, that is. Do you have any idea what the cause could be?
+** [!attention] Rintaro is a time traveler?!?!?
+** If Rintaro is a time traveler, his recollection of odd events can be explained. But, if he remembers these events from other world line why can't he recall the fact that he himself is a time traveler?
+** Rintaro sends a snapshot of the code to John Titor awaits his response. After sometime, the response from Jhon Titor arrives affirming the suspicion:
+**** frm: John Titor dtd: 7/31 10:52
+**** sub: Where did you find that?
+**** That's written in a proprietary IBN programming language used prior to 1975. You can only decipher it with an IBN 5100.
+** Well, after the mails from Titor, Rintaro maniacally believes that he is from the future. In fact, these oulier information are recorded in his brain's *extensive Index Librorum Prohibitorum*.~{What?!?!}~
+** Rintaro announces that the  [[id:e3ad92cc-8fe8-40fb-a7b2-b65e4fbf9c2f][Future Gadget Laboratory]] shall begin emergency top secret operations. he proclaims:
+#+begin_quote RINTARO
+This shall be the first stage in our war against the dark powers that manipulate the world from the shadows! Our enemy is SERN, a scientific institute engaged in the most evil research imaginable!
+#+end_quote
+** Rintaro declares that the lab's next goal is to locate illusive archaic hunk of a junk, IBN 5100, rumoured to be located in Akiba. Neither Daru nor Mayuri are interested in these lofty goals. They go back to doing their own things.
+** On the way out of the apartment, Rintaro runs into Amane. Turns out, this is the first time she has driven a bike despite usually dressing in the bike suit. In fact, her common mode of transpotation is a motor-cycle, which does explain her biker outfit. From their past conversation, Rintaro recalls her being interested in IBN 5100 and giving off the hint that she might know a little more than usual. He enquires her about the whereabout of that machine but she denies having any knowledge on that matter. Amane adds that she knew someone who knew where that machine was but that person has been dead for years.
+** Mail alert!
+**** frm: Faris dtd: 7:31 11:09
+**** sub: Song of Prophecy
+**** But the fallen angel, FES, prophesied His resurrection in her song "The Necklace of Vajrayana," nyan. This song is the cat's meow. I found a copy of the album she put out in her indie days (had to pay through the whiskers for it), and faithfully decoded each song of prophecy regarding Judgement Day, nya.
+** The conversation goes haywire as Rintaro ends up recruiting Amane as warrior in training to fight Ragnarok, the final battle against SERN, by his side. When Rintaro claims that he will be the one heralding the Ragnarok and birth of the new world, Amane remarks
+#+begin_quote Amane
+Wow! You sure are brave, Okabe Rintaro. You'll probably fail, but I like your spirit. I wish my comrades were as spirited as you are.
+#+end_quote
+** ~{Was that a foreshadowing}~ Who are Amane's comrades? Anyway, after Amane and  [[id:4085e408-9c5c-489f-bcbd-7c0c1a77e782][Tennouji]] part ways, Mayuri comes running out of the apartments. She plans to go and buy some lunch with Okarin. She picks  [[id:2c5ebdff-1870-4e18-98d9-47bffb78367d][Sanbo's beef bowl]] to buy her lunch from. Rintaro paints a very grim picture of the place but Mayuri's in unshakable.
+** Just as Rintaro is about to warn Mayuri about the Sanbo not being open this early, Mayuri has seemingly disappeared. She has a tendency to do this every so often. Whenever she does that Rintaro wonders for a terrible second if she really has vanished from the world. ~{foreshadowing?}~
+** Rintaro finds her staring at the sky in the middle of the road. After staring at the star in the broadlight, Mayuri decides to have ramen for the lunch today. On the way, Rintaro is wondering about how to get more intel on IBN 5100. Just when he is thinking about contacting mail demon, Moeka, he recieves an email from her,
+**** frm:Shining Finger dtd: 7/31 12:26
+**** sub: Still alive?
+**** Will you get back to me already? (*sad emojji*)
+**** Moeka
+** For the first time, Rintaro replies back to Moeka asking her to call him on *080-X094-X626*. As expected Moeka request him to continue talking over email as she doesn't like talking on the phone. Rintaro is adament on getting his phone number as he replies back asking for more information on IBN 5100.
+** Moeka gives an instant reply saying she doesn't have a clue. Meanwhile, Radi-Kan is still surrounded by many people wondering at the fallen satellite. Kurisu pops up from the crowd and startles Rintaro with her sudden appearance.
+** Amidst their tsundere talk, Moeka keeps bugging Rintaro with new message. She is insistent on knowing the location of Daru. After lecturing Moeka to put everything in one mail, Rintaro returns his attention toward Kurisu. She seems perplexed by the crashed satellite. Typically, satellites are given calculated orbit such that they burn up in the atmosphere under free fall. But this satellite seems to be in a perfect condition. As for who the satellite belongs to, it hasn't been found out as of yet. Rumour say it's from the former Soviet Union but Russia has denied it.
+** Just as Kurisu inquires about aftermath of PhoneWave experiment, another mail from Moeka pops up.
+**** frm: Shining Finger dtd: 7/31 12:43
+**** Was I being annoying? I'm sorry. But I really need information on the IBN 5100, and you're the only lead I have right now. I'm relying on you, Okabe-kun. I swear I won't send any more short mails, so please don't abandon me. I need you to help me look for an IBN 5100. I promise to let you know as soon as I learn anything, so let's work together, okay?
+**** Moeka
+***** **Rintaro's Reply**: Apology accepted. I'm looking for an IBN 5100 too. I agree that we should exchange information. I'll let you know when I have something. You don't need to reply to this mail.
+** Kurisu was extremly triggered about the possiblity of PhoneWave being a time machine. Rintaro uses some lopsided logic to enforce Kurisu into assisting him in understanding the anomalous results of the PhoneWave experiments. After some backandforth yes-no, Kurisu hints at her reason as to why she is disturbed by this. She says,
+#+begin_quote
+I won't have a hand in your fringe science. I won't make the same mistake my father did.
+#+end_quote
+** [!attention] Kurisu's father
+** Is Kurisu's father the same person briefly mentioned by Amane, when talking about a person that she knew who knew about the IBN 5100 but is was no longer alive? Does that mean Kurisu's father has also passed away?
+** "The day you decide to research time travel is the day you're out of a job." says Kurisu. It seems that was the fate of his father. By Kurisu's account, her father, a physicist, loved time machine. His fascination for H.G. Wells' 'The Time Machine' led to him seriously researching time travel. His obsession to topic led to his exile from the scientific community. Kurisu emphatically declares she won't partake in any research related to time travel.
+** Rintaro realizes that his behaviour was extremely rude and insensitive. He apologises in Okarin fashion and says that she is welcome to leave but the position of Lab Mem number 004 would be a retired number. That number is hers to keep forever. His perfectly staged exist is halted by a bewildered look from Kurisu.
+** Putting PhoneWave experiment aside, Kurisu asks Rintaro for explaination about his earlier claim of her getting stabbed. Rintaro pretends to shrugg it off as hallucination. On Kurisu's further probing, Rintaro tells the complete story in detail. Kurisu isn't pleased with the fact that instead of helping her, he chickened out of the scene. Rintaro arrogantly remarks that if she wants him to go back in time and give her CPR or something, he would need to use PhoneWave. ~{foreshadowing?!?!}~ After giving him a mouthful to not hallucinate her dying, Kurisu attempts to walk off the conversation. Rintaro doesn't let her go as a revenge for ruining his farewell earlier. He questions her one more time about IBN 5100. Kurisu denies having any pertinent information on this matter. As he turn to make another cool exit after telling her to forget about this information, Kurisu's words delay his cinematic departure again.
+** This time she asks about IBN 5100. Just as Rintaro mentions 'time travel' in the flow of his explaination, Kurisu waves him goodbye for real.
+*  Location: Akiba's Computer Parts Stores and MayQueen (later)
+#+BEGIN_CENTER
+ dtd: 08/01 (Sun)
+#+END_CENTER
+** Rinatro's futile search for IBN 5100 in the vestiges of the old electric town is delightfully interupted by Mayuri. She promises to offer Okarin an something amazing if he comes to MayQueen right away.
+** [!attention] Mayuri's offer
+** Does this have something to do with that RailNet fighting tournament i.e.  [[id:359def50-fb24-4d67-9ad1-16dd01f3c398][Faris Cup]] Faris was hosting at the cafe?
+** Of course, it is. There is a handwritten sign outside the MayQueen stating "Today's the Faris Cup, nyan." before Rintaro can realize what's going on, he is jumped by Mayrui in full maid regalia. She has gone to the convenience store during lunch break. They sit outside the cafe and begin chowing on fried chicken that Mayushii has brought from the coonvienence store. When asked about what was reason why she called Okarin, Mayuri reveals that  [[id:9379d0c6-cbaf-4b51-80a6-2f79a391e98d][Faris]] is a retro PC nerd and she may have some intel on IBN 5100. A mail from Amane injects the conversation:
+**** frm: Part-Time Warrior dtd: 08/01 14:35
+**** sub: In the first place
+**** I just got my first cellular phone *recently*. When I arrived in Tokyo a few days ago, I didn't even know *how to ride the train*. So I just bought a *bike* instead.
+***** ***Rintaro's reply:*** <Keyword: how to ride the train* That has to be a joke. You're trolling me, aren't you!
+** Mayuri is dejected beyond words. Rintaro has gobbled more than his allocated quota of fried chicken. After making some floaty promises to Mayuri, Rintaro heads inside the cafe. Aimless bickering between Okarin and Faris is temporarily halted by an email from Luka.
+**** frm: Lukako dtd: 14:46
+**** sub: I've depended on you too much
+**** I'm sorry. Whenever I talk to you, I realize how far I still have to go. Maybe it's beacuse I'm still minor, but that's no excuse. I need to learn to be *self-reliant*. If I depend too much on you again, please scold me..
+**** P.S. I did 20 practice swings with Samidere. I feel I'm getting a little stronger. But I still can't do anything without you, Okabe-san. Please teach me.
+***** ***Rintaro's reply***: <Keyword: self-reliant* Everyone experiences that at your age, so I don't let it bother you. What's important is the determination, the resolution born from the regret of not being able to protect those important to you...
+** Rintaro is forced to join the Faris Cup. This is his only way to get any intel from Faris. He has been assigned the nametag with number 28. The goal of this cup is to win the RaiNet AccessBattlers tournament. Faris's home cooking will be the chicken dinner for the winner.
+** As expected, Daru is also here as a participant. Rintaro makes a failed attempt to group up with Daru to get competitive edge in the tourney. As light in the cafe dims, a solem melody with sexy and powerful voice starts playing. Seemingly, this is the theme song to RailNet Kakeru. As Faris takes the center stage she explains the rule again.
+   1. Faris will face off against each of the opponents.
+   2. She is even willing to go paw-to-paw with 10 people at once.
+   3. Winner will recieve her home cooking as a reward.
+** Lots are being drawn to determine the order in which 28 opponents will face Faris. Faris will face 10 people at a time, so there will be 3 rounds in total. First rounder which includes Daru have been successfully defeated. Following Rintaro's explaination, the game of RailNet AccessBattlers is very similar to chess. There's a special board where you compete using pieces arranged in rows. The rules are fairly complex but the overarching goal of the game is to get you pieces into the enemy camp. Whoever gets the most pieces into the enemy camp wins.
+** Faris is faceing 10 people at the same time, playing moves from table to table in a circle. First rounders are seemingly annhilated in less than 15 minutes. Mayuri joins in as spectator just when second round is about to start. When questioned by Okarin on what she will do if she was as good as Faris at the RaiNet AccessBattler, Mayuri expresses her desire to become kid's hero. The thought of being good at the game whose mascot is Upa giddy her up because being good at the game means winning many rare Upas at the official tournaments. And just like that round 2 is also over.
+** After propping himself up, Rintaro begins his 'Operation Sweet Side'. He gave up... Just like that all the build up went poof in the air... It didn't even last 5 minutes. FYI, everyone in third round also lost. Rintaro loudly proclaims that the operation sweet side was in fact operation suicide attack, pun totally intended. Rintaro states the terms for conversation was him 'facing' her in the match and not 'defeating' her in the match.
+** Rintaro inquires Faris to obtain any intel on IBN 5100 whereabouts. She accepts that she seen this computer somewhere but she is having hard time recalling it's current location. Turns out, it's her father who is a the fan and collector of retro PCs.
+** Again, Mayuri comes in clutch as she is able to extract out the key information from Faris after forcing her to look at the photo and try to recall. Apparently Faris ended up donating one of her dad's computer to a shrine. It looked a lot like PC shown in the pic. Rintaro rightfully points out the oddity in donating an electronic item to the shrine.
+** Even though Mayuri forgot to ask which shrine it was, based on the location there are only two shrines in Akiba,  [[id:61949896-c517-4929-8e16-dceb3d8b8c41][Kanda Myojin]] and  [[id:3bb9ae18-38f5-4105-b3ab-7d882f0ad032][Yanabayashi Shrine]]. After applauding Mayuri's effort, Rintaro leaves the cafe.
+** Travel to Kanda Myojin ended up being pointless as no one knew about that old computer. On the way Yanabayashi Shrine, Rintaro recieves a call. It's from Kurisu. Just as Rintaro tells her where he is headed, Kurisu hangs the phone. As he reaches the shrine, he notices his 'assistant' Christina waiting there.
+** After their usual catch and lob, Rintaro tells Kurisu the reason behind his visit to the shrine. Amane's mail temporaily interrupts their conversation,
+**** frm: Part-time Warrior dtd:8/1 17:50
+**** sub: Actually
+**** The train didn't run through where  lived. I was astonished to see how many train lines Tokyo had. It's like a big web!
+** After having casual chit-chat with Luka and reluctanlty introducing Kurisu to Luka, Rintaro asks Luka to bring him father for some questioning. When asked about donation of IBN-5100, Luka's father interjects by saying that maybe 'donated' won't be the right word to use. ***But an old computer was entrusted to this shrine about 9 years ago!*** ~{John Titor dontated it?!?!?!?}~
+** Indeed, it's an **IBN 5100**. Rintaro has solved the famous Akiba's urban legend, the Phantom PC of Akihabara! When Rintaro asks if he can borrow the PC, Luka's father gives the approval seemlessly. He adds, "When this was entrusted to us, the owner said this:"
+#+begin_quote
+If a young man ever appears and says that he needs this computer no matter what, please lend it to him with my blessings.
+#+end_quote
+** Rintaro's heart is grinning like a madman. Things are falling into place way easier than he expected. Once he decipher the SERN's secret code, he plans to expose SERN's wicked research and possibly gather hints on how to build the time machine. With this knowledge he can beat SERN to the punch and complete the first time machine in human history! ~{and then what, save the world?!?!}~
+** [!attention] Conversation with Luka's father
+** I wonder why Rintaro didn't question Luka's father as to who gave him the IBN 5100 nine years ago? If he still remembers the special instruction that person gave, then surely he has some idea about that person's identity. Also, I wonder how Faris comes into picture in this scenario?
+** Luka's father heads back to the shrine's office and the bickering resumes on how to carry this heavy machine. Kurisu is very pleased and a bit jealous to see a very healthy father-son relationship. ~{Does that imply the relationship with her father was strained?}~
+** Somehow, with kurisu assitance, Rintaro is able to bring the IBN 5100 to his lab. When Rintaro jokes about feeling dark urges because of right arm ache, Kurisu lashes out by threatening to tear off peripheral nerves out of his arm. This gruesome imagery reminds Okarin of last year's  [[id:d84e8f17-07cd-4b10-9dc3-017bc445f3c8][New Gen Incidents]].~{Chaos Head; Noah ?!?}~.
+** Just as they are thinking about calling someone to bring the hunk of a junk upstairs to the lab, [[id:caf8e76b-d0be-4905-b4f4-1c704b70ff34][Amane]] walks in from Braun TV workshop. After some casual talk with Rintaro, Amane's attention goes toward Kurisu. From her facial expression, it seems as if she knows Makise but not vice-versa. After making a disgusting 'Hmph...' expression, Amane disappears into the workshop. Kurisu is stunned.
+** [!attention] Odd interaction between Amane and Kurisu
+** Amane behaved very strangely on seeing Kurisu. Makise, on the other hand, doesn't seem to have any recollection of meeting Amane before ever in her life. What's going on?
+** With additional help from Daru and Mayuri, four of them were able to bring up IBN 5100 upstairs. Mayuri leaves for home after recieving well deserved praise for intel gathering. The three musketeers are ready to unravel the mystery of SERN's inelligible code.
+** Since Daru has to juggle between two tasks which are, understanding this retro PC and look for ID with server admin level access, he expects this to take more time than usual. Rintaro asks him to prioritze ID search. ~{Why? Wouldn't it be a better idea to decode the Code first?}~ Around the sametime, an email from Moeka arrives,
+**** frm: Shinning Finger dtd: 08/01 19:18
+**** sub: Got info?
+**** Have you found any leads yet? Nothing at all on my end. I've been to a lot of stores, but none of them had an IBN 5100 on display. Maybe I should have tried asking... Anyway, let me know if you've found anything.
+**** Moeka
+** An intense lash out from Rintaro for calling him Okabe instead of either 'Hououin' or 'Kyouma', scares the hell out of Kurisu. She has tears in her eyes. She tries to brush off her emotion by saying that she definitely wasn't scared of Rintaro for a second there and she definitely didn't feel relieved when he started talking like an idot. ~{Does Kurisu have some past trauma which makes her fearful of authorative figures?}~
+** Once calm settles in the room, Rintaro decides to send back reply to Moeka's mail,
+**** To: Shining Finger
+**** sub: Re:Got info?
+**** I got the goods. Over.
+** Moeka reply comes right in the instance.
+**** frm: Shining Finger dtd: 08/01 19:24
+**** sub: Re:Re: Got info?
+**** The goods? You found an IBN 5100?! Gimme!!
+**** Moeka
+***** ***Rintaro's reply***: Sorry, but I'm not the owner. I can't just give it to you.
+***** ***Moeka's reply***: Let me borrow it!! Moeka
+***** ***Rintaro's reply***: No borrowing either. You can come over to our lab if you want to see it, but no touching. The address is:
+****** Chiyoda-ku, Sotokanda
+****** 3-6-##
+****** Ohiyama Building 2F
+** [!attention] Rintaro giving his address to Moeka
+** This is not giving a good vibe. I think Rintaro made a mistake by over-sharing with Moeka. He shouldn't have told her about IBN 5100 or neither should he be giving her his lab address without any worry.
+** Rinatro gives a summary to Kurisu of the events that have transpired so far. This includes:
+      1. Hacking into SERN
+      2. Finding out about LHC being operational for past 9 years.
+** Other gleaned informatons from the hack are succeessful creation of mini black holes and SERN's attempt to research time travel. An intrigued Kurisu is willing to stay however long it will take Daru to get an admin access. Just as Rintaro is complimenting Kurisu's resolve, a main from Luka arrives.
+**** frm: Lukako dtd: 08/01 19:29
+**** sub: Please let me cry
+**** So, Kyouma-san, there were times you couldn't protect those important to you, weren't there. I'm sorry, but even though I don't know anything about it, imagining Kyouma-san in such pain made me cry...
+**** P.S. I was crying, so I couldn't do any practice swings...
+** Rintaro and Kurisu head towards the development room to look into PhonrWave. The act of Kurisu weaing the Lab coat makes Rintaro emotional beyond words. She is the first member of the lab beside him who has worn a lab coat. Kurisu shuts down long aimless ramblings of Rintaro and begins the experiment.
+** This time around they experiments with a pair of bananas. The results are same again meaning, neither gelification nor electric discharge occurs. When looking back on to the condition of experiment, Rintaro makes a wild speculation that maybe the result of experiment depends on the observer, kind of like quantum theory. Kurisu recalls that electric discharge phenomenon was observed when
+              1. all four of them were present,
+              2. only Daru was present,
+whereas, gelification or fractalization occurred when there either 2 or 3 of them.
+** If that is the case, then at the very least fractalization should've been observed. But that is not the case. They're still missing some variable. This productive line of thinking is halted by rumbling sound from Kurisu's stomach. She decides to have chicken flavoured cup noodle as dinner.
+*  Future Gadget Laboratory
+#+BEGIN_CENTER
+ dtd 08/02 (past midnight/pre-dawn)
+#+END_CENTER
+** It's past midnight as Rintaro is busy looking into terminal mode settings through X68000. Kurisu is busy examining the AC adapter and the lab's switchboard. Rintaro is worried about Kurisu staying so late away from home. When asked her parents getting worried about her, Makise replies that she is staying in a hotel in Ochanomizu. She hasn't seen her father in over 7 years and her mother is staying in America.
+** Just as Rintaro is about to appolozise for over-extending his arms into father-daughter family issue, a Eureka scream is heard from the other room. Daru has succeeded in obtaining a server admin username and password. As for the database with unreadable code, it seems like the only personnels with access to this are those who are on  SERN Executive Council.Halting the work on IBN database for the time being, they begin exploring the server with keywords such as Z Program, Jellyman's Report. Through server admin login credentials, Daru is able to get access of LHC Project Supervisor's computer. They find a scanned document with letterhead "Z PROGRAM: TOP SECRET". The summary of report goes like this,
+#+begin_center
+ Z Program: Top Secret!!
+ The program began... in 1973.
+ "...SERN's purpose heading into the 21st century shall be establish control over space and time, thereby to enable the destruction of extant history and the creation of an everlasting Utopia ruled by the committee that encompassess the entirety of past and future events."
+ "In order to maintain this project's secrecy, and to allow its name to remain relevant in changng circumstances, we designate it the =Z Program=."
+ "Z, like the Greek Omega or the Cyrillic Ya. It is forbidden to assign any meaning to this name or to seek in it significance beyond the project itself. Negative returns are predicted should this edict be violated."
+ "Z program is a top secret project spanning the international borders. Like electromagnetic wave research, it has been approved for top-priority funding by Committee of 300."
+ "Henceforth, all other research performed by SERN shall function to keep the Z Program's existence secret."
+ "The purpose of the Z Program is to perform time-space dispalcement experiments by means of high-energy proton-proton collisions."
+#+end_center
+** Indeed, SERN is working on time travel experiments! Just as Rintaro spew some gibberish about a shadow organization puppeteering SERN, Kurisu's mouth comes arshing down on him. She calls him 'chuunibyyou nutjob' and reprimand him for his lack of seriousness given the gravity of the situation. Kurisu brings a point about this committee of 300 being same as the SERN executive council mentioned in LHC supervisor mails. After loft speculations from Rintaro, Kurisu goes back to reading the document.
+#+begin_center
+Z Program: Top Secret contd...
+Stage 1: Construction and implementation of the Large Hedron Collider.
+Over the past half century, begining with the Proton Synchrotron completed in 1959, particle accelerator technology has reached the point where standarized results may be obtained.
+Stage 2: Implementation and testing of lifter technology.
+The formation of more than two artifical localized singularities, as well as the formation of Kerr black holes, will become possible when this stage is complete.
+In order to hide the program's true goal, it is necessary to intentionally leak misinformation regarding the formation of black holes.
+Stage 3: Animal experimentation.
+Stage 4: Human experimentation.
+#+end_center
+** Daru recalls that the mail which mentions Jellyman's Report also contains info on some experiment result. The result states an error with outcome being death of human because of mismatch. After some inner turmoils, Rintaro goes over his fear of possible future consequences and requests Daru to look for the Jellyman's Report. Before, Daru can begin the search, Rintaro genuinely requests Kurisu to leave. He doesn't want to put her life under any threat because of this action. After some deliberation, Kurisu is allowed to stay under the condition of her not taking about this to anyone.
+** Rintaro anounces *Operation  [[id:cc4ef470-bddb-4d99-bf82-3c3234c6b26e][Laegjarn's Chest]]*! Daru obtain the document in a short while. At first glance, it looks like a resume. There's photograph on the right with details such as name, age, height, weight, and other informations on the left. On the center there is a long string of English text. Underneath that, there's something attached, like a scan of a newspaper clipping with a black and white photo. By looking at the photo, Rintaro understands what the monicker 'Jellyman' means! ~{Gelbanas <--* Jellyman... am I thinking in the right direction?}~ Kurisu starts reading the report:
+#+begin_center
+Jellyman's Report #10
+Subject: James McCarthy, Age: 31, American
+Z Program Stage 4, Date of Experiment:2005-01-28 T 13:05
+Results: Error. Human is dead. Mismatch.
+It is believed that due to infinite compression by supergravity, the subject could not endure passage through the singularity inside the Kerr black hole.
+(Newspaper report) On April 3rd, 1921, an unidentified man was discovered dead in an alley off Union Square, New York. The right half of his body was embedded in a nearby wall. ***The man's body was completely gelified.***
+#+end_center

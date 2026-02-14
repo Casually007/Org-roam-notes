@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       77719c86-4a65-4272-adf6-ee15e331346c
+:END:
+#+title:ATF
+#+filetags: :SteinsGate:Place:
+* After-thoughts
+
+
+* Details
+- Stands for 'Akihabara Techno Forum'.
+- This is a meeting hall located inside [[id:a6e24d7b-308a-439e-a547-8e7e61071878][Daibiru]].
+- Several universities and research institution hold special seminars here.

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       caf8e76b-d0be-4905-b4f4-1c704b70ff34
+:END:
+#+title:Amane
+#+filetags: :SteinsGate:Character:
+* After-thoughts
+* Details
++ Full name: Amane Suzuha
++ Age: 18
++ Hired because she is fan of CRT.
