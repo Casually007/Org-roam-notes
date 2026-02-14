@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       0ee9f7b5-3971-4b62-8cd9-1d23b79f67ba
+:END:
+#+title: MagitTutorial-1
+#+filetags: :Magit:SystemCrafters:
+* Clone a repository:
+=M-x magit clone=
+* Enter magit status window:
+=<C-x> g=
+* Check commit history for current branch:
+/(likely main)/
+=M-x magit-log-current= or ~Status buffer: l l~
+/Exit commit history view by pressing 'q'/
+* Check commit history for a specific branch:
+=M-x magit-log-other= or ~Status buffer: l o~
+/press TAB to list available branches in the repo/
+* Staging for next commit
+** Pressing ~s~ on the name of modified file in magit's status buffer stage whole file for next commit.
+** All modified files can be selected for staging by pressing ~S~.
+** Pressing ~s~ with in a hunk stages that specific modification for the commit.
+/A hunk is chunk of file where modification have been made. It can be viewed by pressing TAB on modified file's name inside magit buffer./
+** One can also stage specific line(s) within hunk by manually selecting lines and staging those specific lines with ~s~.
+/When selecting specific lines for staging, don't forget to select both added and removed lines. Otherwise, funny things might happen./
+** Staged changes can be unstaged by pressing ~u~.
+* Commit changes
+** Press ~c~ to bring up commit panel; press ~c~ again to create the commit.
+** Enter the commit message in newly opened mini-buffer. Press ~C-c C-c~ to finalize the commit.
+/Title of commit message has character limit because of predefined text length for each commit history in the log. Excess title text are shown in the red in mini-buffer./
+** Add a file or change to most =recent= commit
+*** Select unstaged files or changes to be appended and press ~c~ followed by ~e~ to =extend= the commit. Some points to be noted:
+**** Modified commit will have same commit message.
+**** Hash key for modified commit will /NOT/ be same as what it was before.
+/This can be easily verified if previous commit was pushed to master/origin. Merging to master/origin with modified commit will give an error as hash key doesn't match. In this case force push is needed to overwrite the existing branch./
+*** =Amend= is your option if you want to add new changes and update commit message. Press ~c~ and ~a~ to amend the commit with modified changes and commit message.
+*** What about the case when you only want to edit the commit message? Well =reword= is way to go.
+** Add a file or change to specific commit
+/Instant fixup, ~F~ is the solution./
+** Note:
+#+BEGIN_QUOTE
+Any operation that changes an existing commit will require you to force-push the branch.
+#+END_QUOTE
+* Create a new branch from the changes of current branch
+** Scenario: You're mistakenly making/commiting changes into main branch or some other branch which exist in the origin. Now, you want to create a new branch with these changes and revert back your earlier branch to original state. How will you do that?
+*** This scenario is solved by making a spin-off branch which can be done by =M-x magit-branch-spinoff= or pressing ~b~ and ~s~ in magit status buffer.
+*** This only works when main branch before new commit is in sync with origin/main.
+** Scenario: How will you switch an open file to current branch?
+*** This done by first switching to desired branch using ~C-x g b b~, and then reverting the buffer corresponding to open file using =M-x revert-buffer= or ~<SPC> b r~.
+* Pushing a local branch to a remote
+** Pushing a new local branch to a remote
+*** Press ~P~ to open push panel and then press ~p~ again to push the new local branch to remote.
+** Pushing changes made in local branch to remote
+*** Same as pushing new local branch to remote i.e. ~P p~.
+** Pushing a branch that has commit history modified
+*** You need to force push in this case. This is done by opening push menu with ~P~, adding force with lease flag with ~-f~ and finally pushing the branch with ~p~.
+* Saving local changes for later (*STASHING*)
+** Stash changes ~z z~
+** Bring around stashed changes to staging area while retaining the stash ~z a~
+** Bring staged changes to staging area and clean up the stash ~z p~
+* Pulling new commits from remote into local branch
+** Press ~F~ to open pull/fetch menu. Pull from remote branch using ~p~.
+/In case your local branch contain uncommited files or changes, you need to follow these steps:/
+1. Stash uncommited files/changes; ~z z~
+2. Pull commits from remote; ~F p~
+3. Stage stashed files and solve merge confict; ~z p~
+4. Force push your local branch to remote; ~P -f p~
+*Note*: This will overwrite the commit history remote branch. This may leads to issue for others who were sharing the same branch.
+* Pulling commits from other branches
+1. You can set up an upsteam branch, local or remote and pull using ~F u~
+2. You can manually select a branch and pull using ~F e <select branch>~
+* Rebasing local changes onto the new commit
+** To quote /System Crafters/,
+#+begin_quote
+You'll inevitabily need to pull new commits from another branch (such as main/master) into your current branch before you can merge it back into the main branch.
+#+end_quote
+We will be using rebase instead of merge to perform this task as it leads to a cleaner commit history. Although, this will modify the commit history of whole branch.
+*** Press ~F~ in magit status to open pull menu minibuffer. Press ~r~ to configure rebase.
+*** If there is a merge conflict, resolve the issue and press ~r~ to continue rebasing.
+*** If things get too complicated, press ~a~ to abort.
+*** Force push the rebased branch to remote/upstream with ~P -f p/u~.
+* Fetch without pull
+** Press lowercase ~f~ to bring fetch menu and select the source you want to fetch from (~p/u/e~).
+* Discarding unwanted changes
+** If in evilmode, press ~x~ else press ~k~ to remove any unwanted change in the repo. This can also trash any untracked file existing in the repo.
+* Adding a file to .gitignore
+** Press lowercase ~i~ on untracked filename in magit status screen to open /Gitignore/ menu. There are few options in the menu:
+1. ~t~ shared at toplevel (.gitignore)
+   /Add to global .gitignore in the repo/
+2. ~s~ shared in subdirectory (path/to/.gitignore)
+   /Add to local .gitignore in particular subdirectory of the folder/
+3. ~p~ privately (.git/info/exclude)
+   /Add to ignore locally/
+
+
+
+
+** Next, pick a pattern that you want to ignore. It could be that particular file or any file having same extension.

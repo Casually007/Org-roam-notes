@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       866d867f-ab8f-4203-a35a-e0f8b3f13268
+:END:
+#+title: MagitTutorial-2
+#+filetags: :magit:SystemCrafters:Rebase:
+* Cleaning up commit with '=interactive rebase='
+Interactive rebase is a very powerful tool that fascilitate editing commit history in a number of ways. You must consider these before rebasing:
+1. /If there are changes to tracked files in the repo, you must ~stash~ them before proceeding./
+2. /Backup your branch. {~b~ --> ~n~ --> (select branching point) --> (give a backup name)}/
+** Rewording commits
+Follow the following steps:
+ 1. Put cursor on the commit you want to reword.
+ 2. Press ~r~ to bring rebase panel.
+ 3. Press ~i~ to rebase interactively. This will inclusively pick all commits made after selected commit.
+ 4. Press ~r~ followed by ~C-c C-c~ to reword the commit message.
+/Note: Just like that the commit history of subsequent commits i.e. commit hash has also been modified. To push these changes upstream, you will need to do force push if this branch was already pushed once before./
+** Reordering commits
+After pressing ~r~ --> ~i~, use ~M-p/M-n~ to move commit up or down and confirm with ~C-c C-c~.
+** Dealing with conflicts when moving commits
+Fix conflict by editing husks and switch to magit status buffer which will reflect staged changes. Instead of commiting by yourself with 'c', press ~r~ to continue rebasing. Once done, finalize the commit message and press ~C-c C-c~. If confict resolution becomes too complicated, press ~r~--> ~a~ to abort the rebase.
+** Editing a commit
+~r --> i --> e --> s --> r --> r --> C-c C-c~
+* Combining Commit
+** Commit can be combined in two ways,
++ Fix up - Only keep message of previous commit; all other commit messages are deleted.
++ Squash - Retain messages of all commits to be combined.
+** Fix up: ~r~ --> ~i~ --> =f= -->
+** Squash: ~r~ --> ~i~ --> =s= --> ~C-c C-c~
+* Deleting Commit
+** In interactive rebase, press ~k~ to delete a commit.
