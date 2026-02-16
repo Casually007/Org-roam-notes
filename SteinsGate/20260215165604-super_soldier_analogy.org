@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b095e564-2514-40e5-b39c-b4ba3b776c03
+:END:
+#+title: Super Soldier Analogy
+#+filetags: :SteinsGate:Rintaro:KerrBlackHoles:
+* This is Rintaro's analogous description for what is happening near Kerr black hole in PhoneWave and SERN's experiments.
+** Imagine an RPG scenario. The ring singularity, the entrance to the event horizon, is the gate to the Demon Lord's castle.
+~Demon lord's castle symbolizes gateway/portal to the past.~
+** Hundreds of soldiers attack the heavily fortified Demon Lord's castle gate.
+~The fortication to ring singularity is provided by outer event horizon. Hundreds of soldiers i.e. data are trying to pass through event horizon.~
+** The soldiers can use the magic called =Lifter= to force the castle gate open. But they can only keep it open for a moment before it closes. During that moment, only 12 soldiers can break through. The soldiers can only use Lifter magic three times. The 36 soldiers who make it through the gate return triumphantly as the heroes who slew the Demon Lord.
+~Lifter temporarily shrinks the outer event horizon, exposing the ring singularity for data to pass through back in time. Problem is that there is a limit to how many times (3 times) and how longer (just enough to let through 12 byte data) a lifter can expose the singularity.~
+~P.S: 'Slaying the demon lord' implies sucessfully travelling back in the time.~
+** But the soldiers who were left behind are imprisoned by the Demon Lord's minions. They're taken to the castle's prison cells and turned into slime.
+~Soldiers (data/object) who are left behind remain trapped in the event horizon, getting either lost or becoming fractalized and eventually turning into slime.~
+** The heroes save them after defeating the demon lord, but unfortunately, they go home as slimes.
+~Who are the heros? The one operating the lifter or machine? If that is the case, this means that slimed soldiers escape the outer event horizon when lifter exposes the sigularity again in the next cycle.~
+** There's an exception though. The Soldiers can combine into a Super Soldier with the strength and the size of a hundered ordinary soldiers. The Super Soldier has the power to defeat the demon lord alone, but since their body is too big, they can't pass through the gate, even when it's opened by lifter.
+~This case addresses the scenario when soldiers are too big to pass through the ring singularity and travel back in time. This is the case when bunch of bananas turned into gelbanas within the microwave.~
+** Deprived of their magic's effectiveness, the weakened Super Soldier is seized by the Demon Lord's underlings and sent home in defeat as a giant slime.

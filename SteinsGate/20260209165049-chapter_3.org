@@ -1,16 +1,16 @@
 :PROPERTIES:
-:ID:       65e12ac9-bd4e-414a-8bdb-93ba630a4a33
+:ID:    65e12ac9-bd4e-414a-8bdb-93ba630a4a33
 :END:
 #+title:Chapter-3
 #+filetags: :SteinsGate:ButterflyEffectsDivergence:
 * After-thoughts
 * Pressing Questions
 # Butterfly Effect's Divergence
-*  Location:   [[id:e3ad92cc-8fe8-40fb-a7b2-b65e4fbf9c2f][Future Gadget Laboratory]]
+* Location: [[id:e3ad92cc-8fe8-40fb-a7b2-b65e4fbf9c2f][Future Gadget Laboratory]]
 #+BEGIN_CENTER
  dtd 08/02 (MON) 02:00 (source: Rintaro's narration)
 #+END_CENTER
-** Everyone is in a state of shock.  [[id:1d9e7331-84b9-4ba2-9304-f370b3c5dfe1][Kurisu]] says the obivious despite everyone's disbelief that it's highly likely that  [[id:ae74f4f4-9ed7-4459-b8d6-aa5b43acaf61][SERN]] has succeeded in creating the time machine. She points to a photgraph in the newspaper which shows gelified man having an odd tattoo on his shoulder. The tattoo marks 'SERN' followed by some sort of serial number on the body.
+** Everyone is in a state of shock. [[id:1d9e7331-84b9-4ba2-9304-f370b3c5dfe1][Kurisu]] says the obivious despite everyone's disbelief that it's highly likely that [[id:ae74f4f4-9ed7-4459-b8d6-aa5b43acaf61][SERN]] has succeeded in creating the time machine. She points to a photgraph in the newspaper which shows gelified man having an odd tattoo on his shoulder. The tattoo marks 'SERN' followed by some sort of serial number on the body.
 ** When questioned by [[id:cf5e0883-ac65-423b-8671-457f1a6c99b2][Rintaro]] about number of such reports in existence, Daru replies that there are at least 14 people in total. Following Rintaro's request, Daru and Kurisu start opening and translating other [[id:35af92d5-7fdb-4d30-9f55-00c081bcfbf7][Jellyman's Report.]]
 ** Rintaro has had enough of these grim reports. Kurisu questions, if the sites of Jellyman discoveries, being all over the world in a seemingly random manner, has any deductible meaning behind it. When asked about the mentions of supergravity and [[id:f9730efd-b266-4049-8298-eae48d5da1aa][Kerr black holes]] as possible cause in those reports, Kurisu explains that due to infinite compression by supergravity, the subject could not endure passage through the Kerr black hole's singularity.
 ** Rintaro recalls that John Titor has mentioned something about his time machine functioning on Kerr's blackhole. Titor also said that SERN will finish their time machine in 2034. Titor himself claimed to be a visitor from the year 2036.
@@ -28,7 +28,7 @@
 **** Have you bought *Phantasm*'s debut single, nya? It's the *theme song* for 'RaiNet Kakeru', so it's really popular. Faris bought 5 copies, nya. It's my duty as a RaiNetter! Anyway, there's an *important secret* hidden in Phantasm's songs. The key to unlocking it is... Oops, the bell is ringing, nya.Looks like someone's here. Better see who it is.
 ***** ***Rintaro's reply***: <Keyword: important secret* I'm aware. They are said to contain directions to the sanctuary, as well as prophecies regarding the end of the world. Isn't that right?
 ** Rintaro proposes a fabulous idea that they should meet [[id:6182233e-8233-42f7-83ff-fc8d00279b9a][John-Titor]] and ask him to borrow his variable gravity system. Kurisu gives him a sarcastic go ahead signal and goes back to reading the SERN document.
-** Dawn is approaching. Daru is fast asleep on the sofa. The noise of snoring, due to Daru's sleep apnea, is echoing in the room. Rintaro is shocked by Kurisu's level of concentration. Rintaro decides not to disturb her and instead chooses to watch some TV. News channels are still covering the satellite crash at the Radi-Kan. It's been 5 days since the crash. People from different part of Japan are still flocking to the site of crash. The news channel reports on an interview from Michael Byrne, NASA's spokesman. He states that no satellite has crashed in Japan, and that the crashed object is not even a satellite. As the news of the satellite being under investigation with date of removal from the crash site still up in the air is being reported, a mail from  [[id:caf8e76b-d0be-4905-b4f4-1c704b70ff34][Amane]], interrupts Rintaro's thought.
+** Dawn is approaching. Daru is fast asleep on the sofa. The noise of snoring, due to Daru's sleep apnea, is echoing in the room. Rintaro is shocked by Kurisu's level of concentration. Rintaro decides not to disturb her and instead chooses to watch some TV. News channels are still covering the satellite crash at the Radi-Kan. It's been 5 days since the crash. People from different part of Japan are still flocking to the site of crash. The news channel reports on an interview from Michael Byrne, NASA's spokesman. He states that no satellite has crashed in Japan, and that the crashed object is not even a satellite. As the news of the satellite being under investigation with date of removal from the crash site still up in the air is being reported, a mail from [[id:caf8e76b-d0be-4905-b4f4-1c704b70ff34][Amane]], interrupts Rintaro's thought.
 **** [!info] frm: Part-Time Warrior dtd: 08/02 11:39
 **** sub: Hungry
 **** I'm so hungry! I had to skip breakfast again today. I don't have much money on hand. Are there any good places to find *insects or weeds* around here? I can get by using my *survival skills* if I have to.
@@ -38,10 +38,219 @@
 >SERN making a time machine... Jellyman reports... Men in black might be coming to erase us.
 ** Mayuri still has doubts about Rintaro's path. Kurisu is fully onboard as SERN bigger of the two evil. Rintaro proclaims that Ragnarok is unavoidable as the final battle with SERN nears. Once the lofty monologue is over, he 'orders' Kurisu to lay it bare, whatever she has learned from SERN documents.
 ** Kurisu reports that SERN is facing two problems with time travel. The problem lies with,
-     1. electron injection device, also known as a *LIFTER*,
-     2. specifying exact physical location for subject's appearance after time travel.
+   1. electron injection device, also known as a *LIFTER*,
+   2. specifying exact physical location for subject's appearance after time travel.
 ** Kurisu adds that those 14 found Jellymen were lucky in a way that their body stayed on the habitated part of earth. The truth is that there has been more than 100 human experiments performed since 2001.
 ** When questioned by Rintaro about any findings that can help understand PhoneWave's behaviour, Kurisu replies that one can call *the LHC*, ***the world's largest microwave***. Rintaro makes an ahaha comment, "**Of course, PhoneWave is a miniature LHC!**"
 ** Much to the surprise of Rintaro, Kurisu agrees with his remark. She adds that there are many fine details which appears quite vague about the PhoneWave. For example, Why do the same phenomenon that occur in SERN's time machine also happens in the tiny microwave? Unlike LHC, this thing wasn't made for time travel.
-** Rintaro argues that Mayuri's banana must be reaching the Kerr black hole's ring sigularity to end up like gelbana, similar to Jellyman phenomenon. Kurisu adds that they still haven't figured out how the electric discharge phenomenon occur or what are the conditions required to cause it.
-**
+** Rintaro argues that Mayuri's banana must be reaching the Kerr black hole's ring sigularity to end up like gelbana, similar to Jellyman phenomenon. Kurisu adds that they still haven't figured out how the electric discharge phenomenon occur or what are the conditions required to cause it. So begins the discussion on pertinent topic.
+#+begin_quote
+Daru: They're only able to send emails to the past during the discharge.
+Rintaro: Could it be that the discharge phenomenon is signfying the injection of charges? And only after the occurance of discharge does the the path to singularity opens?
+Kurisu: We still don't know what is causing the discharge phenomenon. Also unlike SERN, which is chucking physical beings back in time, we are only able to send digital data.
+Rintaro: This might be same as what we're doing despite the difference in package type. Admittedly, sending a digital data through singularity would be significantly easier than sending something human-sized.
+#+end_quote
+** And the discussion is prematurely concluded as Rintaro's thoughts wonder towards assigning a cool name to /email sent to the past/. =Nostalgia Drive=, that's the name he comes up with, much to the chagrin of Kurisu. Rintaro's proposal is democratically rejected with only one vote in favour. Kurisu suggests =Retromail= as another candidate because the mail has essentially regressed back in time. Personally, I like Daru's idea of calling it =the mail who leapt through time=. Too bad, it's as long as actual name. Also, Rintaro calls the name *stiff*, which infuriates Daru as he lashes out claiming his name is way better that Rintaro's ~Nostalgicexpialidocious~ nonsense!
+/Nostagicexpiallidocious is reference to infamous 34 letter word Supercalifragilisticexpialidocious. The word means wonderful and it was popularized by a famous song in Mary Poppins movie from 1960s. Oddly enough, the word was coined almost 3 decades ago./
+** =Back to the mail => Mail to the future/past => DeLorean mail => D-mail=...Just like that the nonsensical discussion conclude as Daru brings back the focus on reason behind happenstance of D-mail phenomenon. As the conversation proceeds with each characters contributing in line with their personality traits, Kurisu halts Rintaro's rambling by questioning him about the method by which he plans to turn the PhoneWave into a time machine.
+** Rintaro proposes a new hypothesis:
+#+begin_quote
+First mail was sent between 12:00-13:00. Next D-mail incident happened around 18:00. Last time they tried replicating the expirement it night time. Could it mean that there is a temporal condition associated with the positive experimental outcome. What if there exist a temporal window between noon till 18:00, when if the mail is sent to the phonewave, it will change in D-mail.
+#+end_quote
+** ~{Nice of Rintaro to contribute something meaningful!}~ Briming with enthusiasm, Kurisu starts preparing for the experiment after checking the clock. Turns out, =Rintaro's hypothesis is correct!= Both gelbana and D-mail experiments performed as intended. Kurisu's mail to Rintaro, which was sent just when micrwave's door was opened before timed limit, has arrived 5 days before in two parts. It reads,
+**** frm: Assistant dtd: 7/28 12:20
+**** OKABE IS AN
+**** frm: Assistant dtd: 7/28 12:20
+**** AIRHEAD!
+** A new mystery has arrived! It doesn't seem coincidental that three out of three times, D-mails have arrived as two-part mails. No need to fret about it; now that the required condition for running successful experiment is out in the open, they'll be gathering as many experimental data as they can. Everone has been assigned distinct duties:
+1. Daru: Keep an eye on X68000 to monitor sensor readings,
+2. Kurisu: Send as many mails as she can.
+3. Mayuri: Buy bunch of bananas (Okarin is paying!)
+4. Rintaro: Open microwave door at opportune time. (He claims that door opening timing is the key. ~{but, is it though?}~)
+** Getting ignored by others didn't stop Rintaro from giving this mission a new name, '=Operation Urd='. Urd is the eldest of three Norns, the godesses of fate in Norse mythology. Urd is specifically known as the =Norn of the Past=. It's been two hour since the first successful experiment of the day. Daru and Rintaro leaves the lab to go shopping at the convenience store, leaving the girls behind. The haven't eaten anything since last night.
+* Location: Outside Braun Tube Workshop
+#+begin_center
+dtd: 08/02 (MON) 16:00 ???
+#+end_center
+** Rintaro and Daru are greeted by one and only ~part time warrior~ at the Braun Tube Workshop. She asks what kind of shenanigan they're upto this early in the morninig.
+#+begin_comment
+Wait... '/early in the morning/'? If I noted correctly, Rintaro had said that it's been two hours since they started experimenting. Also, if I'm not wrong, first D-mail of the day was sent somewhat around 12:30. Leniently stating, it would by around 15:00-16:00 when Daru and Rintaro went to the convienence store. And now, when they are back from convienence story, [[id:caf8e76b-d0be-4905-b4f4-1c704b70ff34][Amane]]'s statement implies that it's already been morning. Did they took 10-12 hours just for shopping? ~Am I missing something?~
+#+end_comment
+** /And...just like that Rintaro's mouth blows the lid of secrecy on his time travel experiment. He can't help letting go an opportunity to brag./
+{If I'm not wrong this is his second time. He did the same with [[id:9379d0c6-cbaf-4b51-80a6-2f79a391e98d][Faris]].} Good to see Daru making similar objection to Rintaro's behavior. Also, Daru seems surprised that Amane doesn't react strongly to such wild claims. In the meantime, Rintaro himself realizes what he has done and beg Amane to keep his word secret.
+** Amane informs them about [[id:4085e408-9c5c-489f-bcbd-7c0c1a77e782][Tennouji]] getting pissed at the noises they were making. Just after Daru leaves to tell Kurisu to stop the experiment for the time being, Amane inquires Rintaro about Kurisu. ~{Very sus! why is she curious about whereabout of Kurisu?}~
+** Rintaro notices this awkwardness between Amane and Kurisu, asking Amane if she has any problem with Kurisu or if they have met before. Amane begrudgingly answers that she has never met Kurisu before. In fact this was her first contact with her. She vaguly implies that Kurisu might have wronged someone close to her. She squashes any further querries on this matter by telling Rintaro to go make an appology to Mister Braun.
+** /Mr Bragger can't shut his mouth!/ Rintaro absentmindedly disclose details of the experiment he is carry to Mister Braun. Thankfully, Mister Braun doesn't give any attention to his soliloquy. Amidst his rant on all those loud noise and shaking, Mister Braun ends up admitting indirectly that he may have forged the =building's earthquake safety certificate=. One more wild termor amidst the conversation seals the deal as Rintaro concedes by promising not to conduct any further experiment. He runs toward his apartment, yelling to Kurisu to halt the experiment.
+** On entering the room, Rintaro finds every lab members in the middle of their lunch. ~{Wait! Lunch? What time it is?!? I'm completely lost.}~ Turns out, the last loud bang was due to Mayuri accidentally warming her chicken in reverse rotation mode which led to sparking and floor shaking. ~{But wait, if it is afternoon right now, why was she asking about early morining commotion? Was she asking about noises they were making upstairs?}~
+** When Kuisu asks if he has seen the mail she sent, Rintaro get his phone back from PhoneWave and browse his inbox. He comes across this email:
+**** frm: Assistant
+**** dtd: 7/28 14:50
+**** 1 more plz!
+*** This was only of many [[id:5f0a74c9-2bb0-430d-a625-d15b4a0d2ae1][Assistant D-mails]]. Looks like Kurisu has gathered good amount of data for the time being.
+** Kurisu is feeling tired after more than a day worth of work. After finishing the lunch, she is planning to go back to her hotel for a quick shower. Rintaro, Mayuri and Kurisu are busy discussing the state of shower in Rintaro's lab. Around the same time, a mail from [[id:736cfa99-72da-4fbe-83f9-4fe95c66ea87][Luka]] pops up:
+**** frm: Lukako
+**** dtd: 8/2 14:55
+**** sub: About frogs
+**** Um, Kyouma-san, are you familiar with =Geo-Froggies=? They were a huge fad last year. We have tons of them at the shrine, so if you'd like, could you take a few off our hands? =Dad= brought a whole box home for some =reason=. Then he said they were for me... I don't know what to do with them! P.S. I was so bewildered, I couldn't do any practice swings with Samidare.
+***** Rintaro's reply: ~Geo-Froggies~ Those weird-looking frog things that were popular with teenage girls in SHibuya last year, right? If I'm not mistaken, they came out with a wide variety of them.
+** Rintaro joins them after taking out a fresh bottle of Dr P. Mayuri seems baffled by the idea of people drinking soda alongside lunch. Seasoned ~Docperian~ recieves backing from both cola-lover Daru and resident of soda heaven Kurisu. After evil wins the soda argument by majority, they initiate review of Operation Urd and progress they have made so far.
+** [[id:5f0a74c9-2bb0-430d-a625-d15b4a0d2ae1][Assistant D-mails]] experiment has given Kurisu some definitive insights on discharge phenomenon. To present her findings, she hops onto the white board which currently contains the detailed instructions for discharge phenomenon and her observations so far.
+#+begin_comment Discharge Phenomenon instructions & observations
+Necessary Conditions:
++ Use specified command for microwave warming function (reverse rotation)
++ Open microwave door while warming is in progress. (timing unconfirmed)
+Procedure:
++ Send mail to PhoneWave (name subject to change) during discharge
++ Conditions for discharge (12:00-18:00?)
++ D-mail text limit -> (12 one-byte or 6 two-byte character)x3
+  (Any more fails to send)
++ Distance into past depends on PhoneWave timer input, i.e. 1 second on timer = 1 hour into past
++ Contents of microwave become jellymen (Confirmed to also teleport)
+#+end_comment
+English characters including space are usually represnted by 1-byte where as Japanese characters typically need 2-byte in computation. A singlt byte contains 8 bits, allowing us to map upto 256 (2^8) characters. Japanese writing system has thousands of unique characters, making it impossible to create one-to-one map within a byte. That's why, usually 2-bytes are used to digitally encode Japanese characters.
+** Daru seems pretty happy with the fact that they can control how far a message can be send in the past. As expected from a scientific mind, Kurisu is not satisfied with mere emperical observation. She wants a explaination for this behavior. At this stage, these are nothing but verified observations. Rintaro agrees.
+** Mayuri pioints out that only Chicken and bananas are turning into 'gelchicken' and 'gelbanas' but salt is not turning into 'gelsalt'. Does that mean big things or lot of small things are harder to pass by [[id:f9730efd-b266-4049-8298-eae48d5da1aa][Kerr black holes]]. Kurisu offer a plausible reasoning:
+#+begin_quote
+Maybe we have the same problem SERN has with their time machine. since they cannot fully control the lifter, they can't make the singularities perfectly naked, which limits how much they can send.
+#+end_quote
+Anyway how is 36 bytes of data quantitatively comparable to say a banana or chicken nuggets?
+** We know so far that
++ There is a size limit on how much data we can send.
++ Large masses such as banana and chicken gets gelified when transported.
++ Salt structure remains intact.
+Does that mean large masses are getting crushed by supergravity? Or, what if mass is a non-issue as Data doesn't have any mass?
+** Holding this line of thought for the time being, Kurisu states that irrespective of the relevancy of mass, lack of formation of naked singularity is forcing the object to pass through the event horizon. But how come small masses and data are able to passthrough this supergravity unscathed? ~{What is this argument about the hole being too tight? If the claim was about instability of nakedness of sngularity, then it would make sense to me. But they're talking something about tightness of hole?!?!}~ Rintaro presents   [[id:b095e564-2514-40e5-b39c-b4ba3b776c03][Super Soldier Analogy]]. This analogy explains three possible scenarios observed in the experiment:
++ Scenario 1: Possibility of sending D-mails, why they are fragmented and truncated,
++ Scenario 2: Why single bananas and chicken nuggets are able to travel in past albeit in gelified form,
++ Scenario 3: Why a large bunch of bananas returned in the microwave in gelified form.
+** Kurisu brings back the discussion on rational path by bringing focus on working mechanism of PhoneWave. =What is it in the PhoneWave that is behaving like a lifter does in SERN's LHC?= Rintaro adds another question to the list of intrigues. =How come the discharge phenomenon and gelification only happen during a certain timeframe (noon to 18:00)?= Daru remarks that even though they don't understand the detailed working mechanism of this device, they have perfected the *art of D-mailing*. That should be enoungh for the time being.
+** The discussion simmers down as Rintaro informs them about reason the they can't experiment anymore, at least for today. He ttempts to pull a curtain for taday bt loudlt proclaiming that =Today will be the day that will live upon infamy=. As others try to argue on validity of his announcement, Rintaro formally dismisses the 66th Round Table Conference. Everyone leaves for their daily chores and rest as Rintaro takes a break in the lab (presumably).
+* Location: VOID!?!
+dtd: ??/?? ??:??
+** RIntaro is in a void?!? He seems to be stuck in a limbo. He can't feel, move, see. The whole surrounding feels empty. Just as this thought crosses his mind, he hears a voice similar to Kurisu. The voice says,
+#+begin_quote
+You...
+...are beyond the event horizon.
+Where time and space switch places.
+#+end_quote
+Just like that darkness is dispelled. Rintaro is greeted by an ocean of stars filling the heaven. He observes a void amidst the sea of stars. ~{Is this the wormhole}~ He is being pulled into the rift of utter darkness. Christina's voice continue to echo through his ears,
+#+begin_quote
+You aren't moving.
+You aren't moving.
+Remember what I said. Here, space and time switch places.
+You can't move through space.
+But your time is stretching out to eternity.
+#+end_quote
+Rintaro is accelerating so fast that he can barely breathe. Kurisu continues,
+#+begin_quote
+One second for you. An eternity for me.
+As I observe you from a distance,
+I see you as a still object.
+#+end_quote
+Rintaro's mind is wondering if he is looping through time.
+#+begin_quote
+Don't look back.
+Eternity is not infinite.
+Time stretches toward eternity.
+Yet it has an end.
+#+end_quote
+He can feel somrthing approaching him slowly.
+#+begin_quote
+The event horizon.
+Don't look back.
+You will see only yourself, trapped in a second stretched out to eternity.
+#+end_quote
+As his speed slowly decreases he continues to fall endlessly as if approaching to zero asymptotically.
+#+begin_quote
+Time and space have switched places.
+#+end_quote
+Rintaro's head is calculating what a second stretched out to eternity feels like. Is it like 1s becoming 0.1s, 0.01s becoming 0.001s, so on and so forth. As the time shortens, his perception of time lengthens.
+#+begin_quote
+Face forward. Struggle on.
+To the Demon Lord's gate.
+You don't have the key.
+You can't pry it open.
+You will be captured by the Demon Lord's minions.
+#+end_quote
+Slideshow of Jellyman's report flickers through the mind of Rintaro.
+#+begin_quote
+Don't look back.
+#+end_quote
+Rintaro wants to go back but he can't. As he stare at the endpoint, he faces the future of becoming a jellyman, while frozen for eternity...
+As the melody of his phone mail notification wakes him up, Rintaro's eyes are greeted with familiar view of his lab's ceiling. It was infact a *BAD DREAM*! The night is over, it's already Tuesday.
+* Location: Future Gadget Laboratory
+dtd: 08/03 09:10
+** A second bombardment of mails from  [[id:14a28c3a-1829-40a3-938f-45a4b07aec12][Moeka]] has hit Rintaro's phone.
+*** First of many mail goes like this.
+**** frm: Shining Finger
+**** dtd: 08/03 09:10
+**** sub: I'm here
+**** I came like you said, Okabe-kun. You promised to show me the IBN 5100, remember? Are you there? Your windows are open and the lights are on. If you are there, could you open the door? I'm out front.
+**** Moeka
+*** And another...
+**** frm:Shining Finger
+**** dtd: 08/03 09:11
+**** Are you asleep? Ignoring me maybe? I'm climbing up the stairs now.
+**** Moeka
+*** One more...
+**** frm: Shining Finger
+**** dtd: 08/03 09/12
+**** Please reply. Are you pretending to be out? I'm coming to the door.
+**** Moeka
+*** And again...
+**** frm: Shining Finger
+**** dtd: 08/03 09:13
+**** I was going to knock, but the hallway's dark and scary. I'm afraid something will jump out if I make any noise ><
+**** Moeka
+*** One last time...
+**** frm: Shining Finger
+**** dtd: 08/03 09:14
+**** Did you go out? Where are you? Are you still in Akihabara?
+**** Moeka
+** Rintaro is still swaeting from the nightmare he just experienced. The thought of being a particle drifting through space and the truth of SERN's experiments has shocked him more than he thought it could. After letting Moeka inside his room, he asks if she is here to see IBN-5100. Shining Finger digitally reminds him that he promised to show her this device.
+After Rintaro grants Moeka photography permission with condition of no facial shot, she gets busy in her job. It's been nearly half an hour since she first started taking the photos. Meanwhile, Rintaro is busy chowing on bananas for the breakfast as he is interrupted by Moeka's mail. She is insisting on borrowing the coveted machine. Parrying her nonchalant attack is becoming harder and harder for our protagonist. Eventually, he ends up giving her info on the owner he is borrowing from i.e. [[id:3bb9ae18-38f5-4105-b3ab-7d882f0ad032][Yanabayashi Shrine]]. He also promises to give her access to the device once he is done with. This conversation is interrupted when Daru walks in through the door.
+** Daru has some ideas about modifying the PhoneWave. He wants to implement auto-forwarding functinality to phone attached to the phonewave. This will automatically send the D-mail to all address in forwarded list. ~{It's a magnificent idea. Too bad he is blabbering about their secret device right in front of a stranger}~ Lo and behold, a mail from Moeka arrives right away,
+**** frm: Moeka
+**** dtd: 08/03
+**** You were talking about sending some device which sends mail to the past. Tell me about it.
+**** Moeka
+** It's good to see Rintaro thinking rationally. He knows it'll be a very bad idea. Even if she has good intention, at the end of the day, she is still a journalist. News of this discovery might end up propagting like a wildfire. Odds of this info reaching to SERN would become significantly high. Rintaro is trying his best wiggle out of this conversation. He retorts to his last trick 'pretend talking someone on the phone'. He reports,
+#+begin_quote
+It's me. There's a problem... No, not that. Information on No. 8 got leaked to a third party. Yeah, I know. I need to do something.
+Depending on the  situation, I may have to silence her... Yeah, I know. We can't let the Organization know about this.
+Steins Gate seems to enjoy sending trouble my way... Heh, don't worry. My seat in Hell can wait until Ragnarok i over.
+El Psy Kongroo.
+#+end_quote
+Moeka responds by asking if he is 'FB'? ={What the hell is FB?}= Concerned Rintaro brings out his devious persona to force Moeka into keeping this info a secret or it will cost her life. Daru enters from the Development room and start exposing the fascade of this crazy persona. ={On of the rare few occasion, Rintaro's crazy persona was the right choice  for the scenario.}= In process of reprimanding Daru, Rintaro spills the whole beans by calling the PhoneWave a 'time machine'. Just as tension in the room is reaching its maximal point, Mauyri enters and starts speaking right away,
+#+begin_quote
+Hey, Okarin! Mayushii wants to warm up some chicken before you start the time travel experiments.
+#+end_quote
+Every little tidbits are out in the open. There's no point in playing coy with Moeka. So, Rintaro decides to tell her everything. In the meantime, he rips apart the door of the microwave linked with phonewave. This was recommended by Daru to eliminate the step which requied opening the Door to facilitate transmission. Daru is looking into modifying the programs of microwave so that it can be kept running even without the door. Mayuri is stunned by this development. Moeka, on the other hand, continues to take new photos. She stops after Rintaro's request. Afterall, she is now 'Lab member #005'.
+**  Whole gang is here. Kurisu arrived some time ago and Daru is also done with modifications to PhoneWave. While they're busy figuring out a way to conduct experiment without significant shaking, a mail from Lukako arrives,
+**** frm: Lukako
+**** dtd: 08/03 13:32
+**** sub: More news about the frogs
+**** There are only two or three types in the box. I'll send you picture. If you want any please tell me. I'll bring them over.
+**** P.S. I did 10 practice swings.
+** All thanks to Mister Braun being out on the trip, Rintaro's job of getting permission automatically got checked out. Once again, Rintaro praises the choice of Steins Gate. Kurisu points out that all he is doing is dodging the issue instead of addressing it upfront. Rintaro ignores her while continuing his appraisal to Steins gate. Daru is so eager to test out the ~PhoneWave 2nd Edition ver. 1.03~ that he also ignores Kurisu's remark. As the gang is busy bickering about the name of upgraded microwave, Moeka snaps a photograph of the group.
+** Afternoon commotion has calmed down. It's time to conduct new set of experiments. The PhoneWave is setup to automatically forward any D-mails to Okarin's phone. It will be Mayuri's responsibility this time around to send the D-mails. Microwave time has also been reduced from 120# to 60#. As expected Mayuri's message arrives in two part a couple of days ago.
+*** Part 1
+**** dtd: 8/1 13:43
+**** frm: Mayuri
+**** Mayushii {star emoji}
+*** Part 2
+**** dtd: 8/1 13:43
+**** frm: Mayuri
+**** Tutturu {music note emoji}
+** Moeka is stunned. Amane's complaint about shaking and lighting can be heard coming from down below. But Rintaro ignores her because he is only concerned about pissing off Mister Braun. After some time, everyone is assembly in the hall as Rintaro announces commencement of =73rd Round Table Conference=. Okarin starts by enlisting accomplished and active stages of 'Operation Urd',
++ Stage 1: Test the limit of D-mail technology ----> Done
++ Stage 2: Practical applications of D-Mail. ----> Ongoing
+Rintaro proclaims that his goal is *to change the past*. Kurisu appears vehemently against pursuing this line of thought. Going by the mail from Moeka, she seems pretty into this idea. Kurisu is worried about accidently creating time paradox which could threaten existance of this whole reality. This seems to be the first time Kurisu is seriously concerned about Rintaro's desire to bring chaos in the world. Even Moeka is asking if Rintaro has some malicious intentions. Daru is trying to settle everyone down by saying that Okarin s all talk. They should ignore his bonker speeches. Even Mayuri provides glowing charcter reference for Okarin.
+Rintaro decides to postpone his ultimate plan of bringing chaos into this world citing the limitations of phonewave,  as everyone breathe a sigh of relief. Tension in the room has somehow disappeared.
+** "So, how do you want to demostrate and observe this 'changing the past' effect?", asks Daru. Rintaro plans to verify if changing the past is an actual possibility or not. It doesn't matter if the change is too trivial. Kurisu brings up the concept of 'Butterfly effect'. It's a pivotal concept which is a part of chaos theory. Within chaos theory, the butterfly effect is used to describe how a small change/inaccuray in the inital state of a system can lead to significantly different state trajectories over time. When this phenomenon is brought in the domain of time travel, it is used to describe how a minor change can have world defining effect. In other words, any change made to past, no matter how miniscule, can have a significant effect on the future. "Is Rintaro prepared to accept such responsibility?", asks Kurisu.
+Rintaro meekly brings up Titor's statement that the many-worlds interpretation holds true, to skirt from this blame if things go haywire. Kurisu is still worried about ethical implications of this action. ~{Rightfully so!}~ Rintaro attempts to convince her with vague contradictory statement,
+#+begin_quote
+When hypotheses pile up, and theories are verified, they become reality. That's how modern physics comes to understand the truth of the universe.
+#+end_quote
+Kurisu counters by stating that they don't even have a hypothesis as to how the PhoneWave works? She simply wants to get better understanding of this device rather than accidentally making a mistake that may leads to life long regret. Rintaro tries to rile up Kurisu's curiosity and brings SERN as a whataboutism counter. Kurisu successfully deflect this attempt by questioning Rintaro's ethical and moral obligations.
+Due to lack of any new idea, Rintaro snatches the win by declaring their next mission to win a lottery using aid of D-Mail. Mayuri and Kurisu are not happy with this idea but reluctantly accept the plan due to scarcity of any alternative idea. Now that the task is decided, it's time to work on detailed logistics of the mission.
