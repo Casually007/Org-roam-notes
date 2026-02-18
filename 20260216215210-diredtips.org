@@ -1,0 +1,119 @@
++ :PROPERTIES:
+:ID:       711b067b-47f9-491b-903a-b7627c113147
+:END:
+#+title: diredTips-DoomEMACS
+#+filetags: :dired:tips:
+* Fundamentals
+
+| Command Description                | Command |
+|------------------------------------+---------|
+| Run Dired                          | C-x d   |
+| Open/Create new file               | C-x C-f |
+| Dired current file's directory     | C-x C-j |
+| Directory creation in dired buffer | +       |
+| Quit Dired                         | q       |
+|------------------------------------+---------|
+* Navigation
+| Command description     | command |
+|-------------------------+---------|
+| Next directory line     | >       |
+| Previous directory line | <       |
+| Parent directory        | ^       |
+| Next marked directory   | M }     |
+| Previous marked dir     | M {     |
+|-------------------------+---------|
+* Immediate actions on files
+| Command description            | Commands |
+|--------------------------------+----------|
+| open file (read/write)         | f        |
+| view file (read only)          | v        |
+| open file in other window      | o        |
+| compare file with a marked one | =        |
+|--------------------------------+----------|
+* Marking and unmarking files (select-deselect)
+| Command description          | Command  |
+|------------------------------+----------|
+| mark files/subdirs           | m        |
+| Unmark files/subdirs         | u        |
+| marking with given extension | * .      |
+| mark all files               | * s      |
+| mark all dirs                | * /      |
+| mark all symlinks            | * @      |
+| mark all executables         | * *      |
+| invert markings              | t        |
+| mark file wih regex          | * %      |
+| unmark all marked file       | M delete |
+|------------------------------+----------|
+* Modifying the Dired Buffer
+| Command description                        | Command (emacs mode) |
+|--------------------------------------------+----------------------|
+| Insert subdir listing in same buffer       | i                    |
+| remove marked files from listing in buffer | k                    |
+| remove a subdir listing in the buffer      | C u k                |
+| sort by name/date                          | s                    |
+| hide all subdirectories                    | M $                  |
+| hide/unhide subdirectories                 | $                    |
+| refresh buffer (marks stay)                | g                    |
+| undo marks, hidden lines etc.              | C _                  |
+|--------------------------------------------+----------------------|
+* Operation on files marked or specified by the prefix
+| Command description                 | Command |
+|-------------------------------------+---------|
+| copy file(s)                        | C       |
+| rename a file/ move files           | R       |
+| change ownership                    | O       |
+| change groups                       | G       |
+| change mode                         | M       |
+| change filename to lowercase        | % l     |
+| change filename to uppercase        | % u     |
+| delete marked files                 | D       |
+| compress or decompress files        | Z       |
+| check file info                     | I       |
+| create symlinks                     | S       |
+| create relative symlinks            | Y       |
+| create hard links                   | H       |
+| Search files for a regex            | A       |
+| regex query replace on marked files | Q       |
+| load files                          | L       |
+| shell command on files              | !       |
+| async shell command on files        | &       |
+|-------------------------------------+---------|
+* Flagging Files for Deletion
+| Command description                         | Command |
+|---------------------------------------------+---------|
+| flag file for deletion                      | d       |
+| flag backup files (names ending in ~)       | ~       |
+| flag all auto-save files                    | #       |
+| flag various intermediate files             | % &     |
+| flag numeric backups (ending in .~1~, .~2~) | .       |
+| eXecute the flagged files                   | x       |
+| flag files matching a regexp                | % d     |
+|---------------------------------------------+---------|
+* Regex commands
+| Command description                 | Command |
+|-------------------------------------+---------|
+| mark filenames with matching regexp | % m     |
+| mark and copy files by regexp       | % C     |
+| mark and rename files by regexp     | % R     |
+| hardlink                            | % H     |
+| symlinks                            | % S     |
+| relative symlinks                   | % Y     |
+| mark for deletion                   | % d     |
+|-------------------------------------+---------|
+* Dired and Find
+| Command description                      | Command             |
+|------------------------------------------+---------------------|
+| dired files whose name matches a pattern | M-x find-name-dired |
+| dired files that contain pattern         | M-x find-grep-dired |
+| dired files based on find output         | M-x find-dired      |
+|------------------------------------------+---------------------|
+* Getting Help
+| Command description        | Command           |
+|----------------------------+-------------------|
+| dired help                 | h                 |
+| direed summary & error log | ?                 |
+| view mode help             | M-x describe-mode |
+|----------------------------+-------------------|
+* References
+** [[https://www.gnu.org/software/emacs/refcards/pdf/dired-ref.pdf][Dired Reference Card]]
+** [[https://github.com/emacs-evil/evil-collection/blob/master/modes/dired/evil-collection-dired.el][Dired evil binding]]
