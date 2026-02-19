@@ -1,4 +1,4 @@
-+ :PROPERTIES:
+:PROPERTIES:
 :ID:       711b067b-47f9-491b-903a-b7627c113147
 :END:
 #+title: diredTips-DoomEMACS
