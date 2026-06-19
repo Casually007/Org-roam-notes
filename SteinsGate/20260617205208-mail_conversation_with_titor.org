@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       457a83b0-8fa6-446d-b611-ec67ed974845
+:END:
+#+title: Mail conversation with Titor
+#+filetags: :SteinsGate:
+* Rintaro initiates the conversation
+> To: John Titor
+> sub: Question
+> Thanks for the intel on the IBN 5100. The code is from SERN's database. In other news, I've successfully built a machine that sends emails to the past. When we change the past by sending an email, does that change the world line? I noticed some events were undone. Does that mean the world line changed? You said the many-world interpretation is correct, but I'd like to hear proof, if you don't mind.
+* Titor' reply
+> dtd: 8/3 16:19
+> frm: John Titor
+> sub: Details
+> Greetings, Kyouma. Can you tell me exactly how you changed the past? I'd like to verify that what you said is true.
+* Details shared by Rintaro
+> To: John Titor
+> sub: Re:Details
+> We sent an email today. It was set to arrive last Tuesday, 170 hours ago. It contained the winning numbers for the third-place prize of that night's LOTO SIX drawing. The moment we sent the email, my associates, who had helped plan the experiment and watched me send it, instantly forget that any of that had happened. When I checked, I found that the email had vanished from my phone's send history. I know for a fact that it arrived in the past, as my friend bought a LOTO SIX ticket based on information I had apparently given him. He got one of the numbers wrong, but otherwise, it was an exact match.
+* Prompt reply from John Titor
+> dtd: 8/3 16:27
+> from: John Titor
+> sub: Very Interesting
+> From the events you described, it sounds like you did indeed change the past. I suspect that the email you sent changed divergence, if only a little. BRAVO! The instant your email arrived in the past, you shifted from your original world line to an ever-so-slightly different world line. On this world line, you recieve an email from the future containing LOTO SIX numbers. You told your friend the numbers, perhaps because you didn't quite trust the email, but your friend got a number wrong when he purchased the ticket. The original email likely disappeared from your send history when tyhe world line changed. All of this makes sense. The one thing I don't understand is how you kept your memories of the previous world line. Just so we're clear, you're telling the truth, yes?
+* Rintaro's reply vowes by the truethfulness of his previous statements.
+> To: John Titor
+> sub: Re: Very Interesting
+> Yes, I still have my memories from before the past has changed. That's the truth. By the way, this is actually the second time this has happened. You traveled 26 years into your past. Haven't you experienced something similar? Also, what effect do you think my intentional manipulation of the timeline might have?
+* Titor's reply
+> dtd: 8/3 16:39
+> frm: John Titor
+> sub: Memory
+> I've confirmed that divergence is currently at 0.571015%. I cannot tell what the value was before you changed the past. This is beacuse I, like your friends, have no memories of the world line before you changed the past . In the case of physical time travel, memories are retained even if one shifts between world lines. That has been proven by my own experience. But in the case of an email like the one you sent, the "time traveller" changes the past without actually travelling through time, a situation that scientist in my time never even considered. It wasn't necessary, since the invention of the time machine in 2034 gave us the means of physical time travel. So, I'm afraid that I have no idea how to explain the phenomenon you've been experiencing.
+* Rintaro questions details on divergence measurement
+> To: John Titor
+> sub: Re:Memory
+> How exactly do you measure divergence? Where do those numbers come from?
+* Titor's continued reply on many world interpretation
+>
+> sub: The many-worlds interpretation
+> Strictly speaking, I was not being accurate when I wrote that the Everett-Wheeler model is accepted in my time. The first functional time machine was completed in 2034. In the two years following the breakthrough, our understanding of the unniverse structure grew dramatically. In 2036, scientists proved that the world is comprised of "attractor fields", which describe the extent of world line convergence. This theory was first proposed in 2020.
+* Titor addresses Rintaro's question
+> dtd: 8/3 16:47
+> frm: John Titor
+> sub: Re:Re:Memory
+> Sorry, I forgot to answer your question. I have a meter that measures divergence. A reading of 0% divergence corresponds to the world line I originally came from. In other words, it's a subjective, non-absolute measurement. This tool can only indicate the "current" divergence.
+* Rintaro asks for further details on the many-worlds interpretation
+> sub: Re:The many-worlds interpretation
+> Please explain these "attractor fields." How do they affect world lines?
+* Titor explains "attractor field"
+> dtd: 8/3 16:52
+> sub: Observing convergence
+> Put simply, attractor fields are the focal points of world line convergence. Their existence is responsible for phenomena previously known as "fate" or "chance". There is no real point making small changes to a world-line. Due to convergence, small changes donot have lasting influence. Humans who can observe convergences are exceedingly rare. I haven't met anyone with that ability myself, so, I'm unqualified to give you an accurate appraisal, but you, Kyouma, might be one such individual. You might have the power to observe convergence. You might be the one who can guide us to a world line beyond 1% divergence, across the wall that divides attractor field.
+* What lies beyond the wall?
+> To: John Titor
+> Re:Observing convergence
+> What is beyond the wall? What will happen when we cross it?
+* Prompt reply from John Titor
+> dtd: 8/3 16:58
+> sub: The future
+> If we cross the wall, we will have the freedom. If we don't, then the dystopia I came from will be your future. In exchange for providing false peace and joy, your masters will stamp out every last vestige of free will. As I said on @channel, my goal is to change the future. And you may be the one who can make that possible.
+* B2B message from Titor, teetering on the line of creepiness
+> dtd 8/3 17:00
+> sub: Future 2
+> Kyouma, I want you...to be the *Messiah*.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       49e8caf2-55ec-4cd9-9695-17bad0d34c90
+:END:
+#+title:Winning Lottery Ticket
+#+filetags: :SteinsGate:
++ The winning lottery ticket for LOTO SIX contains following numbers:
+  - Winning numbers - 02, 12, 19, 34, 35, 40
+  - Bonus Number - 08

@@ -247,10 +247,64 @@ Every little tidbits are out in the open. There's no point in playing coy with M
 + Stage 2: Practical applications of D-Mail. ----> Ongoing
 Rintaro proclaims that his goal is *to change the past*. Kurisu appears vehemently against pursuing this line of thought. Going by the mail from Moeka, she seems pretty into this idea. Kurisu is worried about accidently creating time paradox which could threaten existance of this whole reality. This seems to be the first time Kurisu is seriously concerned about Rintaro's desire to bring chaos in the world. Even Moeka is asking if Rintaro has some malicious intentions. Daru is trying to settle everyone down by saying that Okarin s all talk. They should ignore his bonker speeches. Even Mayuri provides glowing charcter reference for Okarin.
 Rintaro decides to postpone his ultimate plan of bringing chaos into this world citing the limitations of phonewave,  as everyone breathe a sigh of relief. Tension in the room has somehow disappeared.
-** "So, how do you want to demostrate and observe this 'changing the past' effect?", asks Daru. Rintaro plans to verify if changing the past is an actual possibility or not. It doesn't matter if the change is too trivial. Kurisu brings up the concept of 'Butterfly effect'. It's a pivotal concept which is a part of chaos theory. Within chaos theory, the butterfly effect is used to describe how a small change/inaccuray in the inital state of a system can lead to significantly different state trajectories over time. When this phenomenon is brought in the domain of time travel, it is used to describe how a minor change can have world defining effect. In other words, any change made to past, no matter how miniscule, can have a significant effect on the future. "Is Rintaro prepared to accept such responsibility?", asks Kurisu.
+** "So, how do you want to demostrate and observe this 'changing the past' effect?", asks Daru. Rintaro plans to verify if changing the past is an actual possibility or not. It doesn't matter if the change is too trivial. Kurisu brings up the concept of 'Butterfly effect'. It's a pivotal concept in chaos theory. In the context of chaos theory, the butterfly effect is used to describe how a small change/inaccuray in the inital state of a system can lead to significantly different state trajectories over time. When this phenomenon is brought to the domain of time travel, it is used to describe how a minor change can have world defining effect. In other words, any change made to past, no matter how miniscule, can have a significant effect on the future. "Is Rintaro prepared to accept such responsibility?" asks Kurisu.
 Rintaro meekly brings up Titor's statement that the many-worlds interpretation holds true, to skirt from this blame if things go haywire. Kurisu is still worried about ethical implications of this action. ~{Rightfully so!}~ Rintaro attempts to convince her with vague contradictory statement,
 #+begin_quote
 When hypotheses pile up, and theories are verified, they become reality. That's how modern physics comes to understand the truth of the universe.
 #+end_quote
 Kurisu counters by stating that they don't even have a hypothesis as to how the PhoneWave works? She simply wants to get better understanding of this device rather than accidentally making a mistake that may leads to life long regret. Rintaro tries to rile up Kurisu's curiosity and brings SERN as a whataboutism counter. Kurisu successfully deflect this attempt by questioning Rintaro's ethical and moral obligations.
 Due to lack of any new idea, Rintaro snatches the win by declaring their next mission to win a lottery using aid of D-Mail. Mayuri and Kurisu are not happy with this idea but reluctantly accept the plan due to scarcity of any alternative idea. Now that the task is decided, it's time to work on detailed logistics of the mission.
+** Mission: Lottery Win made Deterministic  (using D-mail)
+Itaru suggests Summer Jumbo lottery -- Alas drawing date is not in the range of time machine -- LOTO SIX has weekly draws! -- They announces their winning draws every Thursday (today is tuesday) publically on their website. -- Prize distribution (1st::200 million, 2nd::23 million, 3rd::700K yen) -- Aiming for third place sounds reasonable -- Lottery announces 6 winning number and a bonus number. First prize must match all six winning numbers, second prize needs 5 winning number plus the bous one, and third prize only needs to match any 5 numbers -- Mail goddess, Moeka, is incharge of this task -- Her task is to send a mail containing any 5 numbers and necessary hints that will convince Rintaro from the past to buy the lottery ticket.
+** Plan in Action
+They are sending the email 170 hours in past (around a week in time) -- Moeka's mail is ready. It reads:
+- "021219343537"
+- "Buy LOTO SIX"
+- "sure to win!"
+They can only send this much information because of the size limit of 36 bytes.
+Amidst fear, doubt and excitement, Rintaro sends the mail through Phonewave. Riddled with pain and headache, Rintaro checks his surrounding just to find everything and everyone out of order from the state they were in just a few moment ago. "What is going on?" asks Rintaro as he searches for his phone. Indeed, he has recieved three emails from the past, a week from today. Excitedly, he asks Celeb Sev a.k.a Kurisu about the third place win, who responds with simiarily puzzled expression. She seems entirely unaware of this scheme. Not only her, even Mayuri and Daru have no such memory. They're still yapping about what to send through D-mail. Amidst all this,  [[id:736cfa99-72da-4fbe-83f9-4fe95c66ea87][Luka]] enters the lab, holding the LOTO SIX ticket with sunken expression on his face. Turns out, Lukako failed to enter all six number correctly and made a mistake. When Rintaro goes to his phone to verify if he entered the number correctly, those past messages are no longer there on his phone. Rintaro steps out of the lab to get some fresh air and clear out his head.
+** Pondering over consequences
+Rintaro notices  [[id:caf8e76b-d0be-4905-b4f4-1c704b70ff34][Amane]] and [[id:8059bed3-4f7a-4154-ae28-b02129e5f603][Nae]], crouched near Amane's bicycle. She seems to be repairing his bike with Nae observing her diligently. Just as an off-handed remark from Amane Suzuha about him looking brainwashed sends Rintaro's line of thought in certain direction, a mail from Faris arrives.
+>dtd: 8/3 15:13
+>frm: Faris
+>sub: Exactamundo
+>Her song still contain words of prophecy. Before they reach it, Faris must decipher the prophecies to find the location of the Holy Land, nya!
+
+> Reply: `prophecy' Mind telling me what's in those songs? Remember: If you refuse, I have ways of making you talk.
+
+On Amane's suggestion, Rintaro decides to discuss this incident with [[id:6182233e-8233-42f7-83ff-fc8d00279b9a][John-Titor]].
+** Back to the Lab
+After thwarting  [[id:4085e408-9c5c-489f-bcbd-7c0c1a77e782][Tennouji]]'s accusation by ratting out Amane, Rintaro heads back to the lab. He is greeted by eager worrisome eyes of fellow lab members. Before he could address the team, another mail from Faris arrives.
+>dtd: 8/3 15:32
+>frm: Faris
+>sub: Revelations
+>I can't give any details, nya. But her songs are divine revelations, prophecies of the end of the world, nya.
+
+Mr. Tennouji's presence at the workshop means no further phonewave experiments would be happening today. Rintaro uses this as a valid reason to dismiss everyone for today. It's not like he was planning to conduct the experiments anyway. Right now, his mind is entirely focussed on discussing recent events with John Titor. After dismissal of all but Kurisu, Rintaro recieves a mail from Moeka.
+>dtd: 8/3 15:48
+>frm: Shining Finger
+>sub: It was fun
+>I wanna hear more about time machines next time. Okay? It's a promise! See you.
+>Moeka
+After usual banter with Kurisu, Rintaro heads to his desk with goal of initiating chat with John Titor.
+** Talk with Titor
+Rintaro's mind is buzzing with questions such as,
+1. Is many-word interpretation the only way to explain what he has experienced today or the other day at the symposium?
+2. Why is he the only who has inconsistency in his memory of past and present after using the phonewave?
+
+Rintaro sends a D-mail to John Titor initiating  [[id:457a83b0-8fa6-446d-b611-ec67ed974845][Mail conversation with Titor]]. While waiting for the response, he recieves a call from Daru, begging him to bring Daru's wallet to  [[id:833c73b3-1e7d-4457-b7cf-f11a15e78967][MayQueen]]. After politely sodding Daru off, he recieves the call again. But, this time it is Mayuri. She was genuinely concerned about Okabe and wanted to know his current status. After heartwarming exchange with Mayuri, Rintaro turns over toward Kurisu. Kurisu's casual sarcastic remarks turns off Rintaro as he decides to not mention anything about Memory inconsistency to her. Amidst their usual bickering, a mail from Mayuri arrives.
+>dtd: 8/3 16:15
+>frm: Mayuri
+>sub: Maid experience
+>You know, I've been working at MayQueen for three months as of today. The other girls threw me a party! I can't believe I've been a maid for three months. Time sure flew by. Oh, don't worry. Mayushii's still Okarin's hostage full time.
+
+> Rintaro's reply (Keyword::`maid'): I still can't believe you're working at a maid cafe. I mean, you still never cosplay outside of work.
+
+ [[id:457a83b0-8fa6-446d-b611-ec67ed974845][Mail conversation with Titor]] culminates with vague conclusion that if we were to believe John Titor's word, then it is likely that Rintaro is one of the few rare human who has unique ability to sense change in divergence. Despite his skepticism, Rintaro decides to gloat about his power to Kurisu. His maddening boasting session is interrupted by Mayuri's mail.
+> dtd: 8/3 16:54
+> frm: Mayuri
+> sub: Reason
+> You know why I don't cosplay. Mayushii doesn't want to stand out. I mean I'm your hostage, right?
+{Again she used 'hostage' instead of 'hostess'}
+** Rintaro's power trip
+Rintaro's vocal power trip, albeit flimsy, is interrupted by Kruisu when she calls him to calm his tits off. The room falls back into pin drop silence as Rintaro is stunned by borderline vulgar phrasing coming from Kuriu's mouth. Glancing at Kurisu's embarrassed expression, Rintaro's mind is busy wondering if Ms. Young Genius is a frequent visitor of @channel message board. Buzzing sounds of mail notifcation interrupts his thought as he notices a new mail from John Titor. After reading the message, Rintaro gets a strong feeling of fear, disgust and creepiness. Titor was begging him to become *THE MESSIAH* and *BRING MANKIND TO NEW FUTURE*.
